@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "课题组简介"
+title: "ASP Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
