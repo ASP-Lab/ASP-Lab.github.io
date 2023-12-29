@@ -8,9 +8,10 @@ author_profile: false
 
 {% include base_path %}
 
-Education
+
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2023全国电子战大会   陕西，西安 , 2023
+* Interspeech 2023   希腊，2023
+* ICSIP 2023   江苏，无锡, 2023
+* NCMMSC 2023   江苏，苏州,2023
 
