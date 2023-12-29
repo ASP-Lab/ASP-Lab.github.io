@@ -1,10 +1,8 @@
 ---
-permalink: /markdown/
+permalink: /Extracurricular_Activities/
 title: "<span style='color: lightblue;'>课余生活</span>"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+author_profile: false
+
 ---
 
 # 聚餐
