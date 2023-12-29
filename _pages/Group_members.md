@@ -5,8 +5,8 @@ permalink: /Group_members/
 author_profile: false
 ---
 
-{% include base_path %}
 
+{% include base_path %}
 
 
 # 组内成员
