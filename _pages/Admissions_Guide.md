@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "<span style='color: lightblue;'>招生指南</span>"
+title: "招生指南"
 permalink: /Admissions_Guide/
-author_profile: true
+author_profile: false
+redirect_from:
+  - /resume
 ---
 
-# <span style="color:blue;">实验室研究生招生指南(by GPT)</span>
+{% include base_path %}
+
+
+#  实验室研究生招生指南(by GPT) 
 
 
 ## 学术硕士（学硕）
