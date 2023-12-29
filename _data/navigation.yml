@@ -3,10 +3,10 @@ main:
   - title: "招生指南"
     url: /Admissions_Guide/
 
-  - title: "研究成果"
+  - title: "研究领域"
     url: /publications/
 
-  - title: "研究领域"
+  - title: "研究成果"
     url: /teaching/    
 
   - title: "组内成员"
