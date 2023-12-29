@@ -3,8 +3,7 @@ layout: archive
 title: "学术会议"
 permalink: /Academic_Conferences/
 author_profile: false
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
