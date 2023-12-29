@@ -2,7 +2,7 @@
 layout: archive
 permalink: /Instrumentation_and_equipment/
 title: "仪器设备"
-author_profile:false
+author_profile: false
 
 ---
 
