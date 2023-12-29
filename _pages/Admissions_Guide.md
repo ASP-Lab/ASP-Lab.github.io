@@ -3,8 +3,7 @@ layout: archive
 title: "招生指南"
 permalink: /Admissions_Guide/
 author_profile: false
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
