@@ -2,7 +2,7 @@
 layout: archive
 title: "学术会议"
 permalink: /Academic_Conferences/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
