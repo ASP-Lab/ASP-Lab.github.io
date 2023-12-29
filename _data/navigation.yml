@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "招生指南"
-    url: /Admissions_Guide/ 
-    
-- title: "研究领域"
-    url: /Research_Areas/   
-    
+    url: /talks/ 
+
   - title: "研究成果"
-    url: /Research_Achievements/
+    url: /publications/
+
+  - title: "研究领域"
+    url: /teaching/    
 
   - title: "组内成员"
-    url: /Group_Members/
-        
+    url: /portfolio/
+
   - title: "仪器设备"
-    url: /Instrumentation_and_Equipment/
-    
+    url: /year-archive/
+
   - title: "学术会议"
-    url: /Academic_Conferences/
+    url: /Academic_conferences/
     
   - title: "课余生活"
-    url: /Extracurricular_Activities/
+    url: /markdown/
