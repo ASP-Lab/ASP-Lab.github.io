@@ -7,13 +7,13 @@ main:
     url: /Research_areas/
 
   - title: "研究成果"
-    url: /teaching/    
+    url: /Research_achievements/    
 
   - title: "组内成员"
-    url: /portfolio/
+    url: /Group_members/
 
   - title: "仪器设备"
-    url: /year-archive/
+    url: /Instrumentation_and_equipment/
 
   - title: "学术会议"
     url: /Academic_conferences/
