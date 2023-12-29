@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "学术会议"
-permalink: /Academic_conferences/
+permalink: /Academic_Conferences/
 author_profile: true
 redirect_from:
   - /resume
