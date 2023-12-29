@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "学术会议"
-permalink: /Academic_Conferences/
+permalink: /Academic_conferences/
 author_profile: false
 
 ---
