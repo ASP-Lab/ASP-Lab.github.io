@@ -17,35 +17,33 @@ redirect_from:
 
 ##  近期新闻： 
 
-#### 2023-09-15
-
-恭喜本课题组的研究生xx，在xx会议发表xx。
-
----
-
-#### 2023-08-15
-
-恭喜本课题组的研究生xx，在xx期刊发表xx。
+#### 2023-12
+**呼德** 研究员和硕士研究生**王旭** 的[两篇报告被ICASSP2024接收](/Research_achievements/)， **呼德**研究员和硕士研究生**王旭**将赴**韩国**参会。
 
 ---
 
-#### 2023-07-15
+#### 2023-12
+**呼德** 研究员和硕士研究生**靳王哲**、硕士研究生**王旭** 的[关于声矢量传感器定位的工作被NCMMSC 2023接收](/Research_achievements/)， **呼德**研究员和硕士研究生**靳王哲**、**王旭**赴**苏州**参会。
 
-我课题组的博士生xx成功获得国家自然科学基金资助，这将进一步推动我组在该领域的科研工作。
+---
+
+#### 2023-09
+
+**呼德** 研究员获得[国家自然科学基金《基于麦克风网络的节能语音增强方法研究》](/Research_achievements/)的资助。
 
 ---
 
-#### 2023-06-15
+#### 2023-07
 
-我们的课题组xx荣获xx奖。
+**呼德** 研究员在国际顶级期刊《IEEE Transactions on Intelligent Transportation Systems》上发表了题目为[“Acoustic SLAM with Moving Sound Event based on Auxiliary Microphone Arrays”的论文](/Research_achievements/)。
 
 ---
-#### 2023-05-15
+#### 2023-01
 
-ASP_Lab 与合作伙伴启动了xx项目。
+**呼德** 研究员在国际顶级期刊《IEEE/ACM Transactions on Audio, Speech, and Language Processing》上发表了["Distributed sensor selection for speech enhancement with acoustic sensor networks", “Distributed sampling rate offset estimation over acoustic sensor networks based on asynchronous network newton optimization”](/Research_achievements/)2篇论文。
 
 
 
-## [查看历史新闻动态](/News_Updates)
+## [查看更多新闻动态](/News_Updates)
 
 
