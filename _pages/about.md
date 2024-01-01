@@ -27,7 +27,6 @@ redirect_from:
 
 恭喜本课题组的研究生xx，在xx期刊发表xx。
 
-
 ---
 
 #### 2023-07-15
@@ -44,6 +43,7 @@ redirect_from:
 #### 2023-05-15
 
 ASP_Lab 与合作伙伴启动了xx项目。
+
 
 
 ## [查看历史新闻动态](/News_Updates)
