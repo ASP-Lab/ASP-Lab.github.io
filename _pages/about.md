@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![ASP Lab Logo](/images/logo.png)
+![Logo2](/images/logo2.gif)
 
 ## 课题组简介： 
 
