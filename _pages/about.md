@@ -38,13 +38,13 @@ redirect_from:
 
 **2023-7** 
 
-[呼德研究员在智能交通领域国际顶级期刊发表最新研究成果](/News_Updates/2023_7)
+[呼德研究员在智能交通领域国际顶级期刊《IEEE Transactions on Intelligent Transportation Systems》发表最新研究成果](/News_Updates/2023_7)
 
 ---
 
 **2023-1** 
 
-[呼德研究员在语音信号处理领域国际顶级期刊发表最新研究成果2篇](/News_Updates/2023_1)
+[呼德研究员在语音信号处理领域国际顶级期刊《IEEE/ACM Transactions on Audio, Speech, and Language Processing》发表最新研究成果2篇](/News_Updates/2023_1)
 
 ---
 
