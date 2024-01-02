@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Logo2](/images/logo2.gif)
+![Logo3](/images/logo3.gif)
 
 ## 课题组简介： 
 
