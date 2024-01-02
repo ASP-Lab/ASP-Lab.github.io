@@ -9,8 +9,6 @@ author_profile: false
 {% include base_path %}
 
 
-
-
 ## 期刊论文
 
  **Acoustic SLAM with Moving Sound Event based on Auxiliary Microphone Arrays**
