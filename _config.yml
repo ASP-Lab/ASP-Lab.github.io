@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "老师名字"
-  avatar           : "profile.png"
-  bio              : "老师职称"
-  location         : "Location"
+  name             : "呼德"
+  avatar           : "hood.jpg"
+  bio              : "研究员"
+  location         : "内蒙古呼和浩特市大学西路235号"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :   "https://www.researchgate.net/profile/De-Hu-3"
   uri              :
   bitbucket        :
   codepen          :
