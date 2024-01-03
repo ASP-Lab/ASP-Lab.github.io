@@ -13,63 +13,57 @@ author_profile: false
 
  **Acoustic SLAM with Moving Sound Event based on Auxiliary Microphone Arrays**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Transactions on Intelligent Transportation Systems
+   - 期刊：IEEE Transactions on Intelligent Transportation Systems(SCI : Q1)
    - 发表时间：2023
-   - (SCI : Q1)
+
 
  **Distributed Self-Localization for Acoustic Transceiver Networks**
    - 作者：**Xu Wang**, **De Hu**
-   - 期刊：IEEE Signal Processing Letters
+   - 期刊：IEEE Signal Processing Letters (SCI : Q2)
    - 发表时间：2023
-   - (SCI : Q2)
+
 
  **Distributed sensor selection for speech enhancement with acoustic sensor networks**
    - 作者：**De Hu**, Qintuya Si, Rui Liu, Feilong Bao
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing
+   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
    - 发表时间：2023
-   - (SCI : Q1)
+ 
 
  **Distributed sampling rate offset estimation over acoustic sensor networks based on asynchronous network newton optimization**
    - 作者：**De Hu**, Huaiwen Zhang, Feilong Bao, Rui Wang
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing
+   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
    - 发表时间：2023
-   - (SCI : Q1)
      
  分布式平均共识的无线声传感器网络时钟校准
    - 作者：**王浩**，飞龙，**呼德**
-   - 期刊：信号处理
+   - 期刊：信号处理(CSCD)
    - 发表时间：2023
-   - (CSCD)
 
  **Passive geometry calibration for microphone arrays based on distributed damped Newton optimization**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing
+   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
    - 发表时间：2021
-   - (SCI : Q1)
+
 
  **Geometry Calibration for Acoustic Transceiver Networks Based on Network Newton Distributed Optimization**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing
+   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
    - 发表时间：2021
-   - (SCI : Q1)
 
  **Frequency response analytical calibration based on spectral flatness for microphone arrays**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Transactions on Instrumentation and Measurement
+   - 期刊：IEEE Transactions on Instrumentation and Measurement(SCI: Q1)
    - 发表时间：2021
-   - (SCI: Q1)
 
 **Information Weighted Consensus with Interacting Multiple Model over Distributed Networks**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Transactions on Circuits and Systems II: Express Briefs
+   - 期刊：IEEE Transactions on Circuits and Systems II: Express Briefs(SCI: Q2)
    - 发表时间：2021
-   - (SCI: Q2)
 
 **Compressive Sensing-Based Sound Source Localization for Microphone arrays**
    - 作者：Mengmeng Qin, **De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：Circuits, Systems, and Signal Processing
+   - 期刊：Circuits, Systems, and Signal Processing(SCI: Q3)
    - 发表时间：2021
-   - (SCI: Q3)
 
  **Analytical Geometry Calibration for Acoustic Transceiver Arrays**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
@@ -79,17 +73,15 @@ author_profile: false
 
  **Frequency response calibration using multi-channel Wiener filters for microphone arrays**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Sensors Journal
-   - 发表时间：2019
-   - (SCI: Q2)
+   - 期刊：IEEE Sensors Journal(SCI: Q2)
+   - 发表时间：2019 
 
 
 ## 会议论文
 
  **Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**
    - 作者：Huaiwen Zhang, **De Hu** et al.
-   - 会议：IEEE ICCV2023
-   - (CCF-A)
+   - 会议：IEEE ICCV2023 (CCF-A)
 
  基于声矢量传感器网络的声源定位算法
    - 作者：**Wangzhe Jin**, **De Hu**, **De Hu** 等。
@@ -99,12 +91,10 @@ author_profile: false
    - 作者：**De Hu**, Xu Wang, Rui Liu, Feilong Bao
    - 会议：ICSIP 2023
    - 发表时间：2023
-   - (CCF-C)
  
  **Explicit Intensity Control for Accented Text-to-speech**
    - 作者：Rui Liu, **De Hu** et al.
-   - 会议：INTERSPEECH2023
-   - (CCF-C)
+   - 会议：INTERSPEECH2023 (CCF-C)
 
 
 ## 专利
