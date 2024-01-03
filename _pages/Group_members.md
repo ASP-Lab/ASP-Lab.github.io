@@ -12,7 +12,7 @@ author_profile: false
 # 组内成员
 ## 指导老师
 
-| <p align="center">   <img src="/images/呼德.jpg" alt="呼德" height="400">   </p>| 
+|  <img src="/images/呼德.jpg" alt="呼德" height="400">  | 
 | --- |
 | **呼德** |
 | **研究方向**：声信号处理、声传感器网络等 |
