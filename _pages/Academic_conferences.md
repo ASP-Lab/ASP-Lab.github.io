@@ -20,7 +20,7 @@ author_profile: false
 
 **2023-8** 
 
-[呼德研究员在爱尔兰成功参加Interspeech 2023会议](//2023_Ireland)
+[呼德研究员在爱尔兰成功参加Interspeech 2023会议](/2023_Ireland)
 
 ---
 
