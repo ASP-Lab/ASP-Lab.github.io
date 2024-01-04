@@ -16,6 +16,16 @@ author_profile: false
   <img src="/images/呼德.jpg" alt="呼德" style="width: 400px;">
 </div>
 
+<table style="width: auto;">
+  <tr>
+    <td align="center"><strong>呼德</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>研究方向：</strong>声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</td>
+  </tr>
+</table>
+
+
 
 | **呼德** |
 | :--: |
@@ -28,6 +38,16 @@ author_profile: false
 <div style="margin: 0 auto; width: 400px;">
   <img src="/images/王浩.jpg" alt="王浩" style="width: 300px;">
 </div>
+
+<table style="width: auto;">
+  <tr>
+    <td align="center"><strong>王浩</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>研究方向：</strong>麦克风阵列校准</td>
+  </tr>
+</table>
+
 
 
 | **王浩** |
