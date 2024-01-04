@@ -12,9 +12,10 @@ author_profile: false
 
 ## 指导老师
 
-<div style="margin: 0 auto; width: 400px;">
+<div style="width: 400px;">
   <img src="/images/呼德.jpg" alt="呼德" style="width: 400px;">
 </div>
+
 
 <table style="width: auto;">
   <tr>
@@ -27,15 +28,9 @@ author_profile: false
 
 
 
-| **呼德** |
-| :--: |
-| **研究方向**：声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等 |
-
-
-
 ## 2021级
 
-<div style="margin: 0 auto; width: 400px;">
+<div style="width: 300px;">
   <img src="/images/王浩.jpg" alt="王浩" style="width: 300px;">
 </div>
 
@@ -47,13 +42,6 @@ author_profile: false
     <td align="center"><strong>研究方向：</strong>麦克风阵列校准</td>
   </tr>
 </table>
-
-
-
-| **王浩** |
-| :--: |
-| **研究方向**：麦克风阵列校准 |
-
 
 
 
