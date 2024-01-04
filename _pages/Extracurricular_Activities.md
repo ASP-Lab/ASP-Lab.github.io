@@ -1,6 +1,6 @@
 ---
 permalink: /Extracurricular_Activities/
-title: "<span style='color: lightblue;'>课余生活</span>"
+title: "课余生活"
 author_profile: false
 
 ---
