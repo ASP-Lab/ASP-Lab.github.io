@@ -5,14 +5,14 @@ author_profile: false
 
 ---
 
-# 聚餐
 
-## xx地方聚餐
-图片1 2
-<!-- 此处插入图片
-![图片1](链接到图片1的URL)
-![图片2](链接到图片2的URL)
--->
+## 教师节合影
+
+
+<div style="text-align: center;">
+  <img src="/images/ASP LAB 合照.jpg" alt="ASP LAB 合照" style="width:600px;">
+</div>
+
 
 
 
