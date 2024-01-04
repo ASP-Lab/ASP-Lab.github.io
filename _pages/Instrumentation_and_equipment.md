@@ -40,7 +40,7 @@ author_profile: false
 ## 声学设备
 
 1. **麦克风阵列**
-   - 型号：xxx
+   - 型号：  knowles SPM0687LR5H
    - 用途：声音采集、语音信号处理
   
 <img src="/images/麦克风.png" alt="麦克风" style="width:400px;">
@@ -53,7 +53,7 @@ author_profile: false
 
 
 3. **声卡**
-   - 型号：xxx
+   - 型号：Antelope orion32
    - 用途：声音采集、语音信号处理
   
 <img src="/images/声卡.jpg" alt="声卡" style="width:400px;">
