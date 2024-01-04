@@ -12,7 +12,7 @@ author_profile: false
 
 ## 指导老师
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="margin: 0 auto; width: 400px;">
   <img src="/images/呼德.jpg" alt="呼德" style="width: 400px;">
 </div>
 
@@ -25,7 +25,7 @@ author_profile: false
 
 ## 2021级
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="margin: 0 auto; width: 400px;">
   <img src="/images/王浩.jpg" alt="王浩" style="width: 300px;">
 </div>
 
