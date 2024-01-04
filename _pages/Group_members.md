@@ -9,15 +9,21 @@ author_profile: false
 {% include base_path %}
 
 
+
 ## 指导老师
 
 <div style="float: left; margin-right: 10px;">
   <img src="/images/呼德.jpg" alt="呼德" style="width: 400px;">
 </div>
 
-| **呼德** |
-| :--: |
-| **研究方向**：声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等 |
+<table width="400" align="left">
+  <tr>
+    <td align="center"><strong>呼德</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>研究方向：</strong>声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</td>
+  </tr>
+</table>
 
 
 
@@ -27,9 +33,17 @@ author_profile: false
    <img src="/images/王浩.jpg" alt="王浩" width="300px"> 
 </div>
 
-| **王浩** |
-| :--: |
-| **研究方向**：麦克风阵列校准 |
+
+<table width="400">
+  <tr>
+    <td align="center"><strong>王浩</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>研究方向：</strong>麦克风阵列校准</td>
+  </tr>
+</table>
+
+
 
 
 ## 2022级
@@ -38,6 +52,7 @@ author_profile: false
 | :--: | :--: | :--: | :--: |
 | **王旭** | **张蕾** | **张鑫喆**  | **靳王哲**  |
 | **研究方向**：声源定位、声传感器网络 | **研究方向**：语音增强 | **研究方向**：助听器 | **研究方向**：声源定位 |
+
 
 ## 2023级
 
