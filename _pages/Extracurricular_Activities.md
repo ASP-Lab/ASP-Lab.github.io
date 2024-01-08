@@ -17,7 +17,7 @@ author_profile: false
 
 我们向辛勤耕耘的老师送上最诚挚的祝福，祝愿您身体健康，学术成果不断丰收，教师节快乐！🌟📸✨
 
-
+---
 
 ## 音频与算法的魔法时刻
 
@@ -26,3 +26,22 @@ author_profile: false
 </div>
 
 实验室的同学们穿梭在音频与算法代码之间，通过精密的音频传感器网络收集音符的数据。这一时刻，实验室充满着音乐与科技的交融，创造出了一个兼具专业性和激情的音频实验空间。
+
+---
+
+## 外出团建活动
+
+<div style="text-align: center;">
+  <img src="/images/聚餐1.jpg" alt="聚餐1" style="width:600px;">
+</div>
+
+
+<div style="text-align: center;">
+  <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/台球1.jpg" alt="台球1" style="width:600px;">
+</div>
+
+实验室同学外出参加聚餐及娱乐活动。
