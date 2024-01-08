@@ -41,7 +41,7 @@ author_profile: false
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/台球1.jpg" alt="台球1" style="width:600px;">
+  <img src="/images/台球1.png" alt="台球1" style="width:600px;">
 </div>
 
 实验室同学外出参加聚餐及娱乐活动。
