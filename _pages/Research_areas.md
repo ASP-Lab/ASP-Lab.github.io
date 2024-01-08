@@ -21,7 +21,7 @@ author_profile: false
 
 语音增强是指干净语音在现实生活场景中受到来自各种噪声干扰时，需要通过一定的方法将噪声滤除，以提升该段语音的质量和可懂度的技术。
 <p align="center">
-    <img src="/images/语音增强.png" alt="语音增强"  height="200">
+    <img src="/images/语音增强.png" alt="语音增强"  width="400">
 </p>
 
 ### 2. **数字助听器**
@@ -29,7 +29,7 @@ author_profile: false
 数字助听器是用于改善听力障碍者听觉体验的重要工具。研究方向包括音频处理算法、自适应滤波、方向性麦克风等技术，以提供更精准、清晰的声音放大。
 
 <p align="center">
-    <img src="/images/助听器.jpg" alt="助听器" height="200">
+    <img src="/images/助听器.jpg" alt="助听器" width="400">
 </p>
 
 ### 3. **声源定位与跟踪**
@@ -37,7 +37,7 @@ author_profile: false
 声源定位与跟踪是音频信号处理领域的重要研究方向，旨在通过分析接收到的声音信号，确定声源的空间位置，并实时跟踪其移动轨迹。该领域涵盖了多个关键技术，包括声学传感器网络、信号处理算法等方法。
 
 <p align="center">
-    <img src="/images/声源定位.png" alt="声源定位" height="300">
+    <img src="/images/声源定位.png" alt="声源定位" width="400">
 </p>
 
 ### 4. **声传感网络几何校准**
@@ -58,7 +58,7 @@ author_profile: false
 三维音频技术能够被用于创建具有沉浸式空间听觉体验的环境,在娱乐影音以及虚拟现实等应用领域被广泛应用。
 
 <p align="center">
-    <img src="/images/三维音频.jpg" alt="三维音频" height="200">
+    <img src="/images/三维音频.jpg" alt="三维音频"  width="500">
 </p>
 
 
