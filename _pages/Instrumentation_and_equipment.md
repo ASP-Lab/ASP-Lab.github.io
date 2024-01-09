@@ -46,7 +46,7 @@ author_profile: false
 <img src="/images/麦克风.png" alt="麦克风" style="width:400px;">
 
 ### 声矢量传感器 
-   - 型号：xxx
+   - 型号：AVS-3D
    - 用途：声音采集、语音信号处理
   
 <img src="/images/AVS.jpg" alt="AVS" style="width:400px;">
