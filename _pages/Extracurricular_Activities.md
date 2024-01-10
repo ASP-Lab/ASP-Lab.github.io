@@ -31,16 +31,16 @@ author_profile: false
 
 ## 外出团建活动
 
-<div style="text-align: center;">
-  <img src="/images/聚餐1.jpg" alt="聚餐1" style="width:600px;">
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="/images/聚餐3.jpg" alt="聚餐3" style="width:600px;">
 </div>
 
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 40px;">
   <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 40px;">
   <img src="/images/台球1.png" alt="台球1" style="width:600px;">
 </div>
 
