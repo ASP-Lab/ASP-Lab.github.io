@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "呼德研究员在计算机科学领域国际顶级期刊《IEEE Transactions on Wireless Communications》发表最新研究成果1篇"
+permalink: /2023_7_1
+author_profile: false
+
+---
+
+{% include base_path %}
+
+
+======
+
+近来，随着通信网络、集成电路、移动计算等技术的快速发展，出现了以智能手机、平板电脑、智能音箱为代表的一批智能设备，并在日常工作与生活中不断普及。这些设备通常配有各自的数据处理单元、无线通信接口、音频输入输出接口，因此，易于构成麦克风网络。该工作中提出一种基于麦克风网络的分布式鲁棒MVDR波束形成器（D-R-MVDR），有效抵抗了语音增强时声传递函数误差导致的性能下降问题。此外，本文首次提出一种能效拓扑控制新方法，以从给定的传感器网络拓扑中寻找能效最高的子拓扑进行波束形成，为D-R-MVDR方法带来了良好的能效特性。
+
+下面给出了实际语音增强场景（图1）以及对应的实验结果（表1）。与基线D-PP-MVDR方法相比，D-R-MVDR方法在噪声抑制、语音质量、能量效率等方面均展现出一定的优势。
+
+ 
+![图1](/images/2024_7_1.png)
+
+图1 实际实验场景
+
+表1 实际实验结果
+
+![图2](/images/2024_7_3.png)
+
+
+相关论文《Distributed-Robust MVDR Beamforming with Energy-Efficient Topology Control in Wireless Acoustic Sensor Networks》发表在《IEEE Transactions on Wireless Communications》学术期刊。《IEEE Transactions on Wireless Communications》是计算机科学、工程学领域旗舰期刊，也是中科院JCR分区一区Top期刊，最新影响因子为8.9。
+
+
+内蒙古大学为论文第一完成单位，呼德研究员为论文第一作者、通讯作者。这项研究得到了国家自然科学基金青年基金、地区基金，内蒙古自治区本级引进高层次人才科研支持、内蒙古大学骏马计划高层次人才引进等项目的支持。
+
+
