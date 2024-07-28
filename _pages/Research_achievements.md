@@ -11,6 +11,18 @@ author_profile: false
 
 ## 期刊论文
 
+ **Distributed-Robust MVDR Beamforming with Energy-Efficient Topology Control in Wireless Acoustic Sensor Networks**
+   - 作者：**De Hu**, Qintuya Si, Feilong Bao, Huaiwen Zhang
+   - 期刊：IEEE Transactions on Wireless Communications(SCI : Q1)
+   - 发表时间：2024
+
+     
+ **Distributed Energy-Saving Speech Enhancement in Wireless Acoustic Sensor Networks**
+   - 作者：**De Hu**, Qintuya Si, Weiwei Zhang
+   - 期刊：Information Fusion(SCI : Q1)
+   - 发表时间：2024
+
+
  **Acoustic SLAM with Moving Sound Event based on Auxiliary Microphone Arrays**
    - 作者：**De Hu**, Zhe Chen, Fuliang Yin
    - 期刊：IEEE Transactions on Intelligent Transportation Systems(SCI : Q1)
