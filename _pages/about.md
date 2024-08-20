@@ -17,7 +17,11 @@ redirect_from:
 
 ##  近期新闻： 
 
+**2024-8** 
 
+[ASP Lab前往新疆乌鲁木齐参加NCMMSC2024会议](/2024_xinjiang)
+
+---
 **2024-7** 
 
 [呼德研究员在计算机科学领域国际顶级期刊《Information Fusion》发表最新研究成果1篇](/2024_7_2)
@@ -49,13 +53,7 @@ redirect_from:
 
 [呼德研究员在智能交通领域国际顶级期刊《IEEE Transactions on Intelligent Transportation Systems》发表最新研究成果](/2023_7)
 
----
 
-**2023-1** 
-
-[呼德研究员在语音信号处理领域国际顶级期刊《IEEE/ACM Transactions on Audio, Speech, and Language Processing》发表最新研究成果2篇](/2023_1)
-
----
 
 ## [查看更多新闻动态](/News_Updates)
 
