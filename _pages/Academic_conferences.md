@@ -9,7 +9,11 @@ author_profile: false
 {% include base_path %}
 
 
-======
+**2024-8** 
+
+[ASP Lab前往新疆乌鲁木齐参加NCMMSC2024会议](/2024_xinjiang)
+
+---
 
 
 **2023-12** 
