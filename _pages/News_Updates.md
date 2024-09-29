@@ -8,6 +8,11 @@ author_profile: false
 
 {% include base_path %}
 
+**2024-9** 
+
+[张鑫喆同学关于数字助听器相关研究《Parametric Binaural Beamforming based on Auditory Perception》在IEEE Signal Processing Letters发表](/2024_9_28)
+
+---
 **2024-8** 
 
 [ASP Lab前往新疆乌鲁木齐参加NCMMSC2024会议](/2024_xinjiang)
