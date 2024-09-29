@@ -10,7 +10,11 @@ author_profile: false
 
 
 ## 期刊论文
-
+ **Parametric Binaural Beamforming based on Auditory Perception**
+   - 作者：**De Hu**, Xinzhe Zhang
+   - 期刊：IEEE Signal Processing Letters(SCI : Q2)
+   - 发表时间：2024
+     
  **Distributed-Robust MVDR Beamforming with Energy-Efficient Topology Control in Wireless Acoustic Sensor Networks**
    - 作者：**De Hu**, Qintuya Si, Feilong Bao, Huaiwen Zhang
    - 期刊：IEEE Transactions on Wireless Communications(SCI : Q1)
