@@ -17,7 +17,7 @@ author_profile: false
 </div>
 
 
-<table style="width: auto;">
+<table style="width: 400px;">
   <tr>
     <td align="center"><strong>呼德</strong></td>
   </tr>
