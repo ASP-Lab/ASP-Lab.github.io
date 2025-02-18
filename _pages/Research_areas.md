@@ -21,7 +21,7 @@ author_profile: false
 
 语音增强是指干净语音在现实生活场景中受到来自各种噪声干扰时，需要通过一定的方法将噪声滤除，以提升该段语音的质量和可懂度的技术。
 <p align="center">
-    <img src="/images/语音增强.png" alt="语音增强"  width="400">
+    <img src="/images/语音增强.jpg" alt="语音增强"  width="400">
 </p>
 
 ### 2. **数字助听器**
@@ -51,7 +51,9 @@ author_profile: false
 ### 6. **多通道主动降噪**
 
 在主动噪声控制系统中,有效降噪范围受通道数量的影响很大，可以通过增加系统通道数量来扩大有效降噪范围。
-
+<p align="center">
+    <img src="/images/多通道主动降噪.jpg" alt="多通道主动降噪" width="400">
+</p>
 
 ### 7. **三维音频**
 
