@@ -34,7 +34,7 @@ author_profile: false
   <img src="/images/王浩.jpg" alt="王浩" style="width: 300px;">
 </div>
 
-<table style="width: auto;">
+<table style="width: 300px;">
   <tr>
     <td align="center"><strong>王浩</strong></td>
   </tr>
