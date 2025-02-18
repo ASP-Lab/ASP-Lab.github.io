@@ -73,7 +73,7 @@ author_profile: false
 | <img src="/images/孟巍.jpg" alt="孟巍" width="300px"> |<img src="/images/岳致远.jpg" alt="岳致远" width="300px">  |<img src="/images/李一博.jpg" alt="李一博" width="300px"> |<img src="/images/杜学.jpg" alt="杜学" width="300px"> |
 | :--: | :--: | :--: | :--: |
 | **孟巍** | **岳致远** | **李一博**  | **杜学**  |
-| **研究方向**：语音增强 | **研究方向**：节点自定位 | **研究方向**：节点选择 | **研究方向**：多通道主动降噪 |
+| **研究方向**：语音增强 | **研究方向**：声传感器网络几何校准 | **研究方向**：节点选择 | **研究方向**：多通道主动降噪 |
 
 
 | <img src="/images/刘慧波.jpg" alt="刘慧波" width="300px"> | 
