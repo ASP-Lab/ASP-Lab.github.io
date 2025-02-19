@@ -29,7 +29,7 @@ author_profile: false
 - 硬盘: 1TB
 - 内存: 16GB
 
-<img src="/images/equipmentsMac.jpg" alt="Mac" style="width:400px;">
+<img src="/images/equipments/Mac.jpg" alt="Mac" style="width:400px;">
 
 ### 联想拯救者Y9000P(共计3台)
 - CPU: Intel Core i9-14900HX
