@@ -5,7 +5,7 @@ author_profile: false
 
 ---
 
-## 中秋节团建之爬大青山
+## 中秋节团建——大青山
 
 
 <div style="text-align: center;margin-bottom: 20px;">
@@ -22,8 +22,10 @@ author_profile: false
   <img src="/images/extracurricular_activities/ASP LAB 合照2.jpg" alt="ASP LAB 合照2" style="width:600px;">
 </div>
 
-在这个特别的教师节，ASP Lab 同学们和亲爱的老师集结在实验室，摆出超酷的 Pose，合影留念！
-  
+每年的教师节，ASP Lab 同学们和呼老师齐聚一堂，感谢老师教诲与支持，共同合影留念！
+<div style="text-align: center;margin-bottom: 20px;">
+  <img src="/images/extracurricular_activities/2024教师节.jpg" alt="2024教师节" style="width:600px;">
+</div>
 我们向辛勤耕耘的老师送上最诚挚的祝福，祝愿您身体健康，学术成果不断丰收，教师节快乐！🌟📸✨
 
 ---
@@ -48,5 +50,10 @@ author_profile: false
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="/images/extracurricular_activities/麻将1.jpg" alt="麻将1" style="width:600px;">
 </div>
-团建怎么少的了最经典的麻将游戏，同学们在麻将桌上运筹帷幄，斗智斗勇。🀄️
+团建怎么少的了最经典的麻将游戏，同学们在麻将桌上运筹帷幄，斗智斗勇🀄️
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/images/extracurricular_activities/台球1.jpg" alt="台球1" style="width:600px;">
+</div>
+举办了精彩的台球挑战赛，大家纷纷纷纷拿起球杆，化身为台球高手切磋技术🎱
 
