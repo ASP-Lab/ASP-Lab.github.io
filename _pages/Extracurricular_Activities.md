@@ -15,7 +15,7 @@ author_profile: false
 中秋佳节，ASP组在大青山开展了一次精彩的团建活动。活动当天，组内成员和导师齐聚大青山国家登山健身步道，大家满怀期待，迎接这场与自然亲密接触的冒险之旅。
 
 <div style="text-align: center;margin-bottom: 20px;">
-  <img src="/images/extracurricular_activities/大青山2.jpg" alt="大青山2" style="height:800px;">
+  <img src="/images/extracurricular_activities/大青山2.jpg" alt="大青山2" style="height:500px;">
 </div>
 大家在壮丽的山景前驻足拍照，分享欢声笑语，感受大自然的美好，并偶遇了可爱的小猫小狗，提高了组内凝聚力，给大家的科研生活增添了一份乐趣。
 
