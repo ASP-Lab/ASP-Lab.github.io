@@ -48,7 +48,7 @@ author_profile: false
 
 
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
+  <img src="/images/extracurricular_activities/麻将1.jpg" alt="麻将1" style="width:600px;">
 </div>
 团建怎么少的了最经典的麻将游戏，同学们在麻将桌上运筹帷幄，斗智斗勇。🀄️
 
