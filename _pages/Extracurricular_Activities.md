@@ -47,6 +47,12 @@ author_profile: false
 <div style="text-align: center; margin-bottom: 40px;">
   <img src="/images/聚餐3.jpg" alt="聚餐3" style="width:600px;">
 </div>
+
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
+</div>
+实验室同学外出参加聚餐及娱乐活动。
+
 -->
 ---
 permalink: /Extracurricular_Activities/
@@ -112,9 +118,3 @@ author_profile: false
 
   实验室同学外出参加聚餐及娱乐活动。
 </details>
-
-
-<div style="text-align: center; margin-bottom: 40px;">
-  <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
-</div>
-实验室同学外出参加聚餐及娱乐活动。
