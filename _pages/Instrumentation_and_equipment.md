@@ -21,7 +21,7 @@ author_profile: false
 - 显卡: NVIDIA GeForce RTX 4070
 - 内存: 16GB
 
-<img src="/images/主机2.jpg" alt="主机2" style="width:400px;">
+<img src="/images/equipments/主机2.jpg" alt="主机2" style="width:400px;">
 
 ## 笔记本
 ### MacBook Air 1TB 16GB(共计3台)
@@ -29,14 +29,14 @@ author_profile: false
 - 硬盘: 1TB
 - 内存: 16GB
 
-<img src="/images/Mac.jpg" alt="Mac" style="width:400px;">
+<img src="/images/equipmentsMac.jpg" alt="Mac" style="width:400px;">
 
 ### 联想拯救者Y9000P(共计3台)
 - CPU: Intel Core i9-14900HX
 - 显卡: NVIDIA GeForce RTX 4070
 - 存储: 32GB + 1TB
 
-<img src="/images/拯救者Y9000P.jpg" alt="拯救者Y9000P" style="width:400px;">
+<img src="/images/equipments/拯救者Y9000P.jpg" alt="拯救者Y9000P" style="width:400px;">
 
 ## 显示器
 
