@@ -14,7 +14,7 @@ author_profile: false
 - 显卡: NVIDIA GeForce RTX 3080
 - 内存: 32GB
 
-<img src="/images/主机1.jpg" alt="主机1" style="width:400px;">
+<img src="/images/equipments/主机1.jpg" alt="主机1" style="width:400px;">
 
 ### 联想拯救者(共计7台)
 - CPU: Intel Core i7-13700KF
