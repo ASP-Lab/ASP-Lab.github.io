@@ -44,8 +44,11 @@ author_profile: false
 <div style="text-align: center; margin-bottom: 40px;">
   <img src="/images/聚餐3.jpg" alt="聚餐3" style="width:600px;">
 </div>
+为了缓解大家科研任务带来的压力，放松忙碌的心情，实验室全体成员一起外出聚餐啦！🎉在轻松愉快的氛围中，我们不仅品尝到了舌尖上的美好，更加深了彼此的了解，为接下来的科研工作注入了更多的动力和能量。🍽️
+
 
 <div style="text-align: center; margin-bottom: 40px;">
   <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
 </div>
-实验室组织同学们外出团建，释放学习科研压力。
+团建怎么少的了最经典的麻将游戏，同学们在麻将桌上运筹帷幄，斗智斗勇。🀄️
+
