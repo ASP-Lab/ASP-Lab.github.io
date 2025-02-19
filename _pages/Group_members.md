@@ -28,7 +28,7 @@ author_profile: false
 
 ## 博士—2024级
 
-| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/李少杰.jpg" alt="李少杰" width="300px">  |
+| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/李少杰.jpg" alt="李少杰" width="400px">  |
 | :--: | :--: |
 | **王旭** | **李少杰** |
 | **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：多通道语音活动和重叠检测 |
