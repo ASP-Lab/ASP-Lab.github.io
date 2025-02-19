@@ -53,7 +53,7 @@ author_profile: false
 团建怎么少的了最经典的麻将游戏，同学们在麻将桌上运筹帷幄，斗智斗勇🀄️
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/extracurricular_activities/台球1.jpg" alt="台球1" style="width:600px;">
+  <img src="/images/extracurricular_activities/台球1.png" alt="台球1" style="width:600px;">
 </div>
 举办了精彩的台球挑战赛，大家纷纷纷纷拿起球杆，化身为台球高手切磋技术🎱
 
