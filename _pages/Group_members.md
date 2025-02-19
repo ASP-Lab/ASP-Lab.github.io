@@ -28,10 +28,10 @@ author_profile: false
 
 ## 博士—2024级
 
-| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/李少杰.jpg" alt="李少杰" width="400px">  |
+| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/李少杰.jpg" alt="李少杰" width="450px">  |
 | :--: | :--: |
 | **王旭** | **李少杰** |
-| **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：多通道语音活动和重叠检测 |
+| **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：多通道语音活动，重叠检测 |
 
 
 ## 硕士—2022级
@@ -39,7 +39,7 @@ author_profile: false
 |<img src="/images/group_members/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/group_members/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/group_members/靳王哲.jpg" alt="靳王哲" width="300px"> |
 | :--: | :--: | :--: |
 | **张蕾** | **张鑫喆**  | **靳王哲**  |
-| **研究方向**：语音增强 | **研究方向**：助听器 | **研究方向**：声源定位、节点选择 |
+| **研究方向**：语音增强 | **研究方向**：助听器 | **研究方向**：声源定位，节点选择 |
 
 
 ## 硕士—2023级
