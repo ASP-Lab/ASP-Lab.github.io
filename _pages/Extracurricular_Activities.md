@@ -9,7 +9,7 @@ author_profile: false
 
 
 <div style="text-align: center;">
-  <img src="/images/extracurricular_activities/2024_9_24.jpg" alt="大青山" style="width:600px;">
+  <img src="/images/extracurricular_activities/大青山.jpg" alt="大青山" style="width:600px;">
 </div>
 
 为了迎接2024届研一新生，增进组员之间的交流与沟通，2024年9月14日，ASP组在大青山开展了一次精彩的团建活动。
