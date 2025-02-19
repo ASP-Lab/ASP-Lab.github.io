@@ -33,22 +33,6 @@ author_profile: false
 | **王旭** | **李少杰** |
 | **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：多通道语音活动和重叠检测 |
 
-## 硕士—2021级
-
-<div style="width: 300px;">
-  <img src="/images/group_members/王浩.jpg" alt="王浩" style="width: 300px;">
-</div>
-
-<table style="width: 300px;">
-  <tr>
-    <td align="center"><strong>王浩</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>研究方向：</strong>麦克风阵列校准</td>
-  </tr>
-</table>
-
-
 
 ## 硕士—2022级
 
@@ -85,3 +69,20 @@ author_profile: false
 | :--: |
 | **刘慧波** |
 | **研究方向**：图神经网络 |
+
+## 毕业生
+## 硕士—2021级
+
+<div style="width: 300px;">
+  <img src="/images/group_members/王浩.jpg" alt="王浩" style="width: 300px;">
+</div>
+
+<table style="width: 300px;">
+  <tr>
+    <td align="center"><strong>王浩</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>研究方向：</strong>麦克风阵列校准</td>
+  </tr>
+</table>
+
