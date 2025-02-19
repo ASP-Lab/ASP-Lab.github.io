@@ -22,7 +22,7 @@ author_profile: false
   <img src="/images/extracurricular_activities/ASP LAB 合照2.jpg" alt="ASP LAB 合照2" style="width:600px;">
 </div>
 
-每年的教师节，ASP Lab 同学们和呼老师齐聚一堂，感谢老师教诲与支持，共同合影留念！
+每年的教师节，ASP Lab 同学们共同为呼老师庆祝节日，感谢老师教诲与支持，共同合影留念！
 <div style="text-align: center;margin-bottom: 20px;">
   <img src="/images/extracurricular_activities/2024教师节.jpg" alt="2024教师节" style="width:600px;">
 </div>
