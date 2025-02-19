@@ -13,7 +13,7 @@ author_profile: false
 ## 指导老师
 
 <div style="width: 400px;">
-  <img src="/images/呼德.jpg" alt="呼德" style="width: 400px;">
+  <img src="/images/group_members/呼德.jpg" alt="呼德" style="width: 400px;">
 </div>
 
 
@@ -31,7 +31,7 @@ author_profile: false
 ## 2021级
 
 <div style="width: 300px;">
-  <img src="/images/王浩.jpg" alt="王浩" style="width: 300px;">
+  <img src="/images/group_members/王浩.jpg" alt="王浩" style="width: 300px;">
 </div>
 
 <table style="width: 300px;">
@@ -47,7 +47,7 @@ author_profile: false
 
 ## 2022级
 
-| <img src="/images/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/靳王哲.jpg" alt="靳王哲" width="300px"> |
+| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/group_members/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/group_members/靳王哲.jpg" alt="靳王哲" width="300px"> |
 | :--: | :--: | :--: | :--: |
 | **王旭** | **张蕾** | **张鑫喆**  | **靳王哲**  |
 | **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：语音增强 | **研究方向**：助听器 | **研究方向**：声源定位、节点选择 |
@@ -56,13 +56,13 @@ author_profile: false
 ## 2023级
 
 
-| <img src="/images/李琪龙.jpg" alt="李琪龙" width="300px"> |<img src="/images/刘姝瑶.jpg" alt="刘姝瑶" width="300px">  |<img src="/images/何艳榕.jpg" alt="何艳榕" width="300px"> |<img src="/images/代浩阳.jpg" alt="代浩阳" width="300px"> |
+| <img src="/images/group_members/李琪龙.jpg" alt="李琪龙" width="300px"> |<img src="/images/group_members/刘姝瑶.jpg" alt="刘姝瑶" width="300px">  |<img src="/images/group_members/何艳榕.jpg" alt="何艳榕" width="300px"> |<img src="/images/group_members/代浩阳.jpg" alt="代浩阳" width="300px"> |
 | :--: | :--: | :--: | :--: |
 | **李琪龙** | **刘姝瑶** | **何艳榕**  | **代浩阳**  |
 | **研究方向**：语音增强 | **研究方向**：多通道主动降噪 | **研究方向**：主动降噪 | **研究方向**：声源定位 |
 
 
-| <img src="/images/关可雨.jpg" alt="关可雨" width="300px"> |<img src="/images/胡俊升.jpg" alt="胡俊升" width="300px"> |<img src="/images/陈思远.jpg" alt="陈思远" width="300px"> |
+| <img src="/images/group_members/关可雨.jpg" alt="关可雨" width="300px"> |<img src="/images/group_members/胡俊升.jpg" alt="胡俊升" width="300px"> |<img src="/images/group_members/陈思远.jpg" alt="陈思远" width="300px"> |
 | :--: | :--: | :--: | 
 | **关可雨** | **胡俊升** | **陈思远**  |
 | **研究方向**：助听器 | **研究方向**：三维音频 | **研究方向**：三维音频 |
@@ -70,13 +70,13 @@ author_profile: false
 ## 2024级
 
 
-| <img src="/images/孟巍.jpg" alt="孟巍" width="300px"> |<img src="/images/岳致远.jpg" alt="岳致远" width="300px">  |<img src="/images/group_members/李一博.jpg" alt="李一博" width="300px"> |<img src="/images/group_members/杜学.jpg" alt="杜学" width="300px"> |
+| <img src="/images/group_members/孟巍.jpg" alt="孟巍" width="300px"> |<img src="/images/group_members/岳致远.jpg" alt="岳致远" width="300px">  |<img src="/images/group_members/李一博.jpg" alt="李一博" width="300px"> |<img src="/images/group_members/杜学.jpg" alt="杜学" width="300px"> |
 | :--: | :--: | :--: | :--: |
 | **孟巍** | **岳致远** | **李一博**  | **杜学**  |
 | **研究方向**：语音增强 | **研究方向**：声传感器网络几何校准 | **研究方向**：节点选择 | **研究方向**：多通道主动降噪 |
 
 
-| <img src="/images/刘慧波.jpg" alt="刘慧波" width="300px"> | 
+| <img src="/images/group_members/刘慧波.jpg" alt="刘慧波" width="300px"> | 
 | :--: |
 | **刘慧波** |
 | **研究方向**：图神经网络 |
