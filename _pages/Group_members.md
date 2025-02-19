@@ -26,9 +26,14 @@ author_profile: false
   </tr>
 </table>
 
+## 博士—2024级
 
+| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/李少杰.jpg" alt="李少杰" width="300px">  |
+| :--: | :--: |
+| **王旭** | **李少杰** |
+| **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：多通道语音活动和重叠检测 |
 
-## 2021级
+## 硕士—2021级
 
 <div style="width: 300px;">
   <img src="/images/group_members/王浩.jpg" alt="王浩" style="width: 300px;">
@@ -45,15 +50,15 @@ author_profile: false
 
 
 
-## 2022级
+## 硕士—2022级
 
-| <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/group_members/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/group_members/靳王哲.jpg" alt="靳王哲" width="300px"> |
-| :--: | :--: | :--: | :--: |
-| **王旭** | **张蕾** | **张鑫喆**  | **靳王哲**  |
-| **研究方向**：声传感器网络几何校准，声源定位 | **研究方向**：语音增强 | **研究方向**：助听器 | **研究方向**：声源定位、节点选择 |
+|<img src="/images/group_members/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/group_members/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/group_members/靳王哲.jpg" alt="靳王哲" width="300px"> |
+| :--: | :--: | :--: |
+| **张蕾** | **张鑫喆**  | **靳王哲**  |
+| **研究方向**：语音增强 | **研究方向**：助听器 | **研究方向**：声源定位、节点选择 |
 
 
-## 2023级
+## 硕士—2023级
 
 
 | <img src="/images/group_members/李琪龙.jpg" alt="李琪龙" width="300px"> |<img src="/images/group_members/刘姝瑶.jpg" alt="刘姝瑶" width="300px">  |<img src="/images/group_members/何艳榕.jpg" alt="何艳榕" width="300px"> |<img src="/images/group_members/代浩阳.jpg" alt="代浩阳" width="300px"> |
@@ -67,7 +72,7 @@ author_profile: false
 | **关可雨** | **胡俊升** | **陈思远**  |
 | **研究方向**：助听器 | **研究方向**：三维音频 | **研究方向**：三维音频 |
 
-## 2024级
+## 硕士—2024级
 
 
 | <img src="/images/group_members/孟巍.jpg" alt="孟巍" width="300px"> |<img src="/images/group_members/岳致远.jpg" alt="岳致远" width="300px">  |<img src="/images/group_members/李一博.jpg" alt="李一博" width="300px"> |<img src="/images/group_members/杜学.jpg" alt="杜学" width="300px"> |
