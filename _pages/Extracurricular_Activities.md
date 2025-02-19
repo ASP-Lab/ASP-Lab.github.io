@@ -25,9 +25,7 @@ author_profile: false
   <img src="/images/ASP LAB 合照2.jpg" alt="ASP LAB 合照2" style="width:600px;">
 </div>
 
-在这个特别的教师节，ASP Lab 同学们和亲爱的老师集结在实验室，摆出超酷的 Pose，合影留念！
-
-我们向辛勤耕耘的老师送上最诚挚的祝福，祝愿您身体健康，学术成果不断丰收，教师节快乐！🌟📸✨
+在这个特别的教师节，ASP Lab 同学们和亲爱的老师集结在实验室，摆出超酷的 Pose，合影留念！我们向辛勤耕耘的老师送上最诚挚的祝福，祝愿您身体健康，学术成果不断丰收，教师节快乐！🌟📸✨
 
 ---
 
@@ -50,4 +48,4 @@ author_profile: false
 <div style="text-align: center; margin-bottom: 40px;">
   <img src="/images/麻将1.jpg" alt="麻将1" style="width:600px;">
 </div>
-实验室同学外出参加聚餐及娱乐活动。
+实验室组织同学们外出团建，释放学习科研压力。
