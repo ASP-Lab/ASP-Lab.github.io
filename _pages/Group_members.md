@@ -70,8 +70,7 @@ author_profile: false
 | **刘慧波** |
 | **研究方向**：图神经网络 |
 
-## 毕业生
-## 硕士—2021级
+## 毕业生—2021级
 
 <div style="width: 300px;">
   <img src="/images/group_members/王浩.jpg" alt="王浩" style="width: 300px;">
