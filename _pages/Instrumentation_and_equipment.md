@@ -24,7 +24,7 @@ author_profile: false
 <img src="/images/equipments/主机2.jpg" alt="主机2" style="width:400px;">
 
 ## 笔记本
-### MacBook Air 1TB 16GB(共计3台)
+### MacBook Air(共计3台)
 - CPU: M3【8核+16核】
 - 硬盘: 1TB
 - 内存: 16GB
