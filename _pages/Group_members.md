@@ -11,7 +11,7 @@ author_profile: false
 
 
 ## 指导老师
-
+<!--
 <div style="width: 400px;">
   <img src="/images/group_members/呼德.jpg" alt="呼德" style="width: 400px;">
 </div>
@@ -25,6 +25,23 @@ author_profile: false
     <td align="center"><strong>研究方向：</strong>声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</td>
   </tr>
 </table>
+-->
+
+<div style="text-align: center;">
+  <div style="width: 400px; margin: 0 auto;">
+    <img src="/images/group_members/呼德.jpg" alt="呼德" style="width: 400px;">
+  </div>
+
+  <table style="width: 400px; margin: 0 auto;">
+    <tr>
+      <td align="center"><strong>呼德</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>研究方向：</strong>声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</td>
+    </tr>
+  </table>
+</div>
+
 
 ## 博士—2024级
 
