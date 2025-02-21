@@ -29,7 +29,7 @@ author_profile: false
 数字助听器是用于改善听力障碍者听觉体验的重要工具。研究方向包括音频处理算法、自适应滤波、方向性麦克风等技术，以提供更精准、清晰的声音放大。
 
 <p align="center">
-    <img src="/images/助听器.jpg" alt="助听器" width="400">
+    <img src="/images/助听器.png" alt="助听器" width="400">
 </p>
 
 ### 3. **声源定位与跟踪**
