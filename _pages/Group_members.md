@@ -82,9 +82,9 @@ author_profile: false
 | **研究方向**：语音增强 | **研究方向**：声传感器网络几何校准 |
 
 
-| <img src="/images/group_members/李一博.jpg" alt="李一博" width="300px"> |<img src="/images/group_members/杜学.jpg" alt="杜学" width="300px"> |<img src="/images/group_members/刘慧波.jpg" alt="刘慧波" width="300px"> | 
+| <img src="/images/group_members/李一博.jpg" alt="李一博" width="300px"> |<img src="/images/group_members/杜学.jpg" alt="杜学" width="300px"> |<img src="/images/group_members/刘彗波.jpg" alt="刘彗波" width="300px"> | 
 | :--: | :--: | :--: |
-| **李一博**  | **杜学**  | **刘慧波** |
+| **李一博**  | **杜学**  | **刘彗波** |
 | **研究方向**：节点选择 | **研究方向**：多通道主动降噪 | **研究方向**：图神经网络 |
 
 ## 毕业生—2021级
