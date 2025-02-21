@@ -98,7 +98,7 @@ author_profile: false
     <td align="center"><strong>王浩</strong></td>
   </tr>
   <tr>
-    <td align="center"><strong>就业方向：</strong>中国中车集团</td>
+    <td align="center"><strong>就业去向：</strong>中国中车集团</td>
   </tr>
 </table>
 
