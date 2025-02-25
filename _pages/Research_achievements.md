@@ -95,18 +95,22 @@ author_profile: false
 
 ## 会议论文
 
+ **Distributed-Robust Source Localization in Wireless Acoustic Sensor Networks**
+   - 作者：Xu Wang，De Hu，Qintuya Si.
+   - 会议：IEEE ICSIP 2025
+
  **Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**
    - 作者：Huaiwen Zhang, **De Hu** et al.
    - 会议：IEEE ICCV2023 (CCF-A)
 
  基于声矢量传感器网络的声源定位算法
-   - 作者：**Wangzhe Jin**, **De Hu**, **De Hu** 等。
+   - 作者：**Wangzhe Jin**, **De Hu**等。
    - 会议：NCMMSC 2023
 
  **Fast Subnetwork Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
    - 作者：**De Hu**, Xu Wang, Rui Liu, Feilong Bao
    - 会议：ICSIP 2023
-   - 发表时间：2023
+   
  
  **Explicit Intensity Control for Accented Text-to-speech**
    - 作者：Rui Liu, **De Hu** et al.
