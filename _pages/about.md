@@ -16,7 +16,10 @@ redirect_from:
 
 
 ##  近期新闻： 
+**2025-3** 
+[王旭同学关于在无线声传感器网络（WASN）方面的研究《Robust Self-Localization of Wireless Acoustic Sensor Networks》成功发表于《IEEE Internet of Things Journal》学术期刊(/2025_3)
 
+---
 **2024-8** 
 
 [张鑫喆同学关于数字助听器相关研究《Parametric Binaural Beamforming based on Auditory Perception》在IEEE Signal Processing Letters发表](/2024_9_28)
