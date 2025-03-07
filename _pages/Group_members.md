@@ -90,7 +90,7 @@ author_profile: false
 ## 毕业生—2021级
 
 <div style="width: 300px;">
-  <img src="/images/group_members/王浩.jpg" alt="王浩" style="width: 300px;">
+  <img src="/images/group_members/王浩.png" alt="王浩" style="width: 300px;">
 </div>
 
 <table style="width: 300px;">
