@@ -17,7 +17,7 @@ redirect_from:
 
 ##  近期新闻： 
 **2025-3** 
-[王旭同学关于无线声传感器网络（WASN）方面的研究成果《Robust Self-Localization of Wireless Acoustic Sensor Networks》成功发表于《IEEE Internet of Things Journal》学术期刊(/news_update/2025_3)
+[王旭同学关于无线声传感器网络（WASN）方面的研究成果《Robust Self-Localization of Wireless Acoustic Sensor Networks》成功发表于《IEEE Internet of Things Journal》学术期刊](/news_update/2025_3)
 
 ---
 **2024-8** 
