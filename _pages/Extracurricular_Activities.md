@@ -5,6 +5,14 @@ author_profile: false
 
 ---
 
+## 篮球赛
+
+<div style="text-align: center;margin-bottom: 20px;">
+  <img src="/images/extracurricular_activities/篮球赛.jpg" alt="篮球赛" style="height:500px;">
+</div>
+&nbsp;&nbsp;随着天气转暖，组里会组织篮球活动，大家一起锻炼身体，在篮球场上挥洒汗水，在运动中带走一天的疲惫🏀！
+
+---
 ## 中秋节团建——大青山
 
 
