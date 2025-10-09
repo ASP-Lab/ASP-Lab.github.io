@@ -89,6 +89,18 @@ author_profile: false
 
 ## 硕士—2025级
 
+| <img src="/images/group_members/付兴.jpg" alt="付兴" width="300px"> |<img src="/images/group_members/丁丽童.jpg" alt="丁丽童"  width="300px">  | <img src="/images/group_members/姚维涛.jpg" alt="姚维涛"  width="300px"> |
+| :--: | :--: | :--: |
+| **付兴** | **丁丽童** | **姚维涛** |
+| **研究方向**：声源定位 | **研究方向**：声传感器网络波束形成 | **研究方向**：语音增强 |
+
+
+| <img src="/images/group_members/李婕.jpg" alt="李婕"  width="300px"> |<img src="/images/group_members/郭怀民.jpg" alt="郭怀民"  width="300px"> |
+| :--: | :--: |
+| **李婕**  | **郭怀民**  |
+| **研究方向**：双耳语音增强 | **研究方向**：三维音频 |
+
+<!--
 | <img src="/images/group_members/付兴.jpg" alt="付兴" class="member-img"> |<img src="/images/group_members/丁丽童.jpg" alt="丁丽童" class="member-img">  | <img src="/images/group_members/姚维涛.jpg" alt="姚维涛" class="member-img"> |
 | :--: | :--: | :--: |
 | **付兴** | **丁丽童** | **姚维涛** |
@@ -99,8 +111,7 @@ author_profile: false
 | :--: | :--: |
 | **李婕**  | **郭怀民**  |
 | **研究方向**：双耳语音增强 | **研究方向**：三维音频 |
-
-
+-->
 
 ## 毕业生
 
