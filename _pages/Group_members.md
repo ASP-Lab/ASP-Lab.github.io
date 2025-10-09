@@ -43,7 +43,7 @@ author_profile: false
 </div>
 
 
-## 博士—2024级
+## 博士
 
 | <img src="/images/group_members/王旭.jpg" alt="王旭" width="300px"> |<img src="/images/group_members/李少杰.jpg" alt="李少杰" width="450px">  |<img src="/images/group_members/何艳榕.jpg" alt="何艳榕" width="300px"> |
 | :--: | :--: | :--: |
@@ -92,20 +92,8 @@ author_profile: false
 | **研究方向**：双耳语音增强 | **研究方向**：三维音频 |
 
 ## 毕业生
-<div style="width: 300px;">
-  <img src="/images/group_members/王浩.png" alt="王浩" style="width: 300px;">
-</div>
 
-<table style="width: 300px;">
-  <tr>
-    <td align="center"><strong>王浩</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>毕业去向：</strong>中国中车集团</td>
-  </tr>
-</table>
-
-|<img src="/images/group_members/王浩.jpg" alt="王浩" width="300px">  |<img src="/images/group_members/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/group_members/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/group_members/靳王哲.jpg" alt="靳王哲" width="300px"> |
+|<img src="/images/group_members/王浩.png" alt="王浩" width="300px">  |<img src="/images/group_members/张蕾.jpg" alt="张蕾" width="300px">  |<img src="/images/group_members/张鑫喆.jpg" alt="张鑫喆" width="300px"> |<img src="/images/group_members/靳王哲.jpg" alt="靳王哲" width="300px"> |
 | :--: | :--: | :--: | :--: |
 | **王浩** |  **张蕾** | **张鑫喆**  | **靳王哲**  |
 | **毕业去向**：中国中车集团  | **毕业去向**：世界五百强企业 | **毕业去向**：辽宁财贸学院 | **毕业去向**：前进机械厂 |
