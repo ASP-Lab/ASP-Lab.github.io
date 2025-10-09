@@ -89,7 +89,7 @@ author_profile: false
 
 ## 硕士—2025级
 
-| <img src="/images/group_members/付兴.jpg" alt="付兴" class="member-img"> |<img src="/images/group_members/丁丽童.jpg" alt="丁丽童" class="member-img">  | <img src="/images/group_members/姚维涛.jpg" alt="姚维涛"class="member-img"> |
+| <img src="/images/group_members/付兴.jpg" alt="付兴" class="member-img"> |<img src="/images/group_members/丁丽童.jpg" alt="丁丽童" class="member-img">  | <img src="/images/group_members/姚维涛.jpg" alt="姚维涛" class="member-img"> |
 | :--: | :--: | :--: |
 | **付兴** | **丁丽童** | **姚维涛** |
 | **研究方向**：声源定位 | **研究方向**：声传感器网络波束形成 | **研究方向**：语音增强 |
