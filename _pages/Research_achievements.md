@@ -17,7 +17,7 @@ author_profile: false
 
 **Robust Self-Localization of Wireless Acoustic Sensor Networks**
    - 作者：**Xu Wang**, **De Hu**
-   - 期刊：IEEE Internet of Things Journal
+   - 期刊：IEEE Internet of Things Journal (SCI : Q1)
    - 发表时间：2025
 
 **Parametric Binaural Beamforming based on Auditory Perception**
