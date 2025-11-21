@@ -9,16 +9,37 @@ author_profile: false
 {% include base_path %}
 
 
+**2025-9** 
+
+[ASP Lab前往意大利西西里岛参加EUSIPCO 2025会议](/Academic_conferences/2025_Sicilia)
+
+---
+
+
+**2025-8** 
+
+[ASP Lab前往荷兰鹿特丹参加Interspeech 2025会议](/Academic_conferences/2025_Rotterdam)
+
+---
+
+
+**2025-5** 
+
+[ASP Lab前往江苏苏州参加ICASSP 2025会议](/Academic_conferences/2025_suzhou)
+
+---
+
+
 **2024-8** 
 
-[ASP Lab前往新疆乌鲁木齐参加NCMMSC2024会议](/2024_xinjiang)
+[ASP Lab前往新疆乌鲁木齐参加NCMMSC 2024会议](/2024_xinjiang)
 
 ---
 
 
 **2023-12** 
 
-[ASP Lab前往江苏苏州参加NCMMSC2023会议](/2023_NCMMSC)
+[ASP Lab前往江苏苏州参加NCMMSC 2023会议](/2023_NCMMSC)
 
 ---
 
