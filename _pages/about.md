@@ -18,6 +18,11 @@ redirect_from:
 ##  近期新闻： 
 **2025-11**
 
+[呼德研究员受邀参加2025年全国声学大会青年学者论坛](/news_update/2025_ASC_Hood).
+
+---
+**2025-11**
+
 [胡俊升同学关于空间音频（HRTF 个性化）方面的研究《Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization》发表于人工智能顶级会议《AAAI 2026》](/news_update/2025_AAAI_Hjs).
 
 ---
