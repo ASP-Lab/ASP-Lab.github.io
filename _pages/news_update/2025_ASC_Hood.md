@@ -19,7 +19,7 @@ ASP Lab将继续面向声学感知核心问题开展深入研究，推动声传�
 
 
 <div align="center">
-  <img src="/images/news_update/hood_ASC.png" alt="呼德研究员报告现场" width="500">
+  <img src="/images/news_update/hood_ASC.png" alt="呼德研究员报告现场" width="600">
 </div>
 
 ---
