@@ -10,177 +10,186 @@ author_profile: false
 
 
 ## 期刊论文
-**Time difference of arrival estimator based on generative adversarial networks**
-   - 作者：Dai Haoyang, **De Hu**
-   - 期刊：Journal of Signal Processing
-   - 发表时间：2025
-   - 
- **Parametric Binaural Beamforming based on Auditory Perception**
-   - 作者：**De Hu**, Xinzhe Zhang
-   - 期刊：IEEE Signal Processing Letters(SCI : Q2)
-   - 发表时间：2024
-     
- **Distributed-Robust MVDR Beamforming with Energy-Efficient Topology Control in Wireless Acoustic Sensor Networks**
-   - 作者：**De Hu**, Qintuya Si, Feilong Bao, Huaiwen Zhang
-   - 期刊：IEEE Transactions on Wireless Communications(SCI : Q1)
-   - 发表时间：2024
-
-     
- **Distributed Energy-Saving Speech Enhancement in Wireless Acoustic Sensor Networks**
-   - 作者：**De Hu**, Qintuya Si, Weiwei Zhang
-   - 期刊：Information Fusion(SCI : Q1)
-   - 发表时间：2024
-
-
- **Acoustic SLAM with Moving Sound Event based on Auxiliary Microphone Arrays**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Transactions on Intelligent Transportation Systems(SCI : Q1)
-   - 发表时间：2023
-
-
- **Distributed Self-Localization for Acoustic Transceiver Networks**
-   - 作者：**Xu Wang**, **De Hu**
-   - 期刊：IEEE Signal Processing Letters (SCI : Q2)
-   - 发表时间：2023
-
-
- **Distributed sensor selection for speech enhancement with acoustic sensor networks**
-   - 作者：**De Hu**, Qintuya Si, Rui Liu, Feilong Bao
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
-   - 发表时间：2023
- 
-
- **Distributed sampling rate offset estimation over acoustic sensor networks based on asynchronous network newton optimization**
-   - 作者：**De Hu**, Huaiwen Zhang, Feilong Bao, Rui Wang
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
-   - 发表时间：2023
-     
- 分布式平均共识的无线声传感器网络时钟校准
-   - 作者：**王浩**，飞龙，**呼德**
+**基于生成对抗网络的到达时间差估计器**
+   - 作者：代号阳, **呼德**
    - 期刊：信号处理(CSCD)
-   - 发表时间：2023
+   - 发表时间：2025
 
- **Passive geometry calibration for microphone arrays based on distributed damped Newton optimization**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
-   - 发表时间：2021
+**Robust Self-Localization of Wireless Acoustic Sensor Networks**
+   - 作者：**Xu Wang**, **De Hu**
+   - 期刊：IEEE Internet of Things Journal
+   - 发表时间：2025
+
+**Parametric Binaural Beamforming based on Auditory Perception**
+- 作者：**De Hu**, Xinzhe Zhang
+- 期刊：IEEE Signal Processing Letters(SCI : Q2)
+- 发表时间：2024
+     
+**Distributed-Robust MVDR Beamforming with Energy-Efficient Topology Control in Wireless Acoustic Sensor Networks**
+- 作者：**De Hu**, Qintuya Si, Feilong Bao, Huaiwen Zhang
+- 期刊：IEEE Transactions on Wireless Communications(SCI : Q1)
+- 发表时间：2024
+
+  
+**Distributed Energy-Saving Speech Enhancement in Wireless Acoustic Sensor Networks**
+- 作者：**De Hu**, Qintuya Si, Weiwei Zhang
+- 期刊：Information Fusion(SCI : Q1)
+- 发表时间：2024
 
 
- **Geometry Calibration for Acoustic Transceiver Networks Based on Network Newton Distributed Optimization**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
-   - 发表时间：2021
+**Acoustic SLAM with Moving Sound Event based on Auxiliary Microphone Arrays**
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE Transactions on Intelligent Transportation Systems(SCI : Q1)
+- 发表时间：2023
 
- **Frequency response analytical calibration based on spectral flatness for microphone arrays**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Transactions on Instrumentation and Measurement(SCI: Q1)
-   - 发表时间：2021
+
+**Distributed Self-Localization for Acoustic Transceiver Networks**
+- 作者：**Xu Wang**, **De Hu**
+- 期刊：IEEE Signal Processing Letters (SCI : Q2)
+- 发表时间：2023
+
+
+**Distributed sensor selection for speech enhancement with acoustic sensor networks**
+- 作者：**De Hu**, Qintuya Si, Rui Liu, Feilong Bao
+- 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
+- 发表时间：2023
+
+
+**Distributed sampling rate offset estimation over acoustic sensor networks based on asynchronous network newton optimization**
+- 作者：**De Hu**, Huaiwen Zhang, Feilong Bao, Rui Wang
+- 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
+- 发表时间：2023
+  
+**分布式平均共识的无线声传感器网络时钟校准**
+- 作者：**王浩**，飞龙，**呼德**
+- 期刊：信号处理(CSCD)
+- 发表时间：2023
+
+**Passive geometry calibration for microphone arrays based on distributed damped Newton optimization**
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
+- 发表时间：2021
+
+
+**Geometry Calibration for Acoustic Transceiver Networks Based on Network Newton Distributed Optimization**
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE/ACM Transactions on Audio, Speech, and Language Processing(SCI : Q1)
+- 发表时间：2021
+
+**Frequency response analytical calibration based on spectral flatness for microphone arrays**
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE Transactions on Instrumentation and Measurement(SCI: Q1)
+- 发表时间：2021
 
 **Information Weighted Consensus with Interacting Multiple Model over Distributed Networks**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Transactions on Circuits and Systems II: Express Briefs(SCI: Q2)
-   - 发表时间：2021
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE Transactions on Circuits and Systems II: Express Briefs(SCI: Q2)
+- 发表时间：2021
 
 **Compressive Sensing-Based Sound Source Localization for Microphone arrays**
-   - 作者：Mengmeng Qin, **De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：Circuits, Systems, and Signal Processing(SCI: Q3)
-   - 发表时间：2021
+- 作者：Mengmeng Qin, **De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：Circuits, Systems, and Signal Processing(SCI: Q3)
+- 发表时间：2021
 
- **Analytical Geometry Calibration for Acoustic Transceiver Arrays**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Signal Processing Letters
-   - 发表时间：2020
-   - (SCI: Q2)
+**Analytical Geometry Calibration for Acoustic Transceiver Arrays**
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE Signal Processing Letters
+- 发表时间：2020
+- (SCI: Q2)
 
- **Frequency response calibration using multi-channel Wiener filters for microphone arrays**
-   - 作者：**De Hu**, Zhe Chen, Fuliang Yin
-   - 期刊：IEEE Sensors Journal(SCI: Q2)
-   - 发表时间：2019 
+**Frequency response calibration using multi-channel Wiener filters for microphone arrays**
+- 作者：**De Hu**, Zhe Chen, Fuliang Yin
+- 期刊：IEEE Sensors Journal(SCI: Q2)
+- 发表时间：2019 
 
 
 ## 会议论文
 
- **Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization**
-   - 作者：**De Hu**, Junsheng Hu, Cuicui Jiang
-   - 会议：AAAI 2025 (CCF-A)
+**Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization**
+- 作者：**De Hu**, Junsheng Hu, Cuicui Jiang
+- 会议：AAAI 2025 (CCF-A)
 
- **D-GAT: Dual Graph Attention Network for Global HRTF Interpolation**
-   - 作者：**Junsheng Hu**, Shaojie Li, Qintuya Si, **De Hu**
-   - 会议：Interspeech 2025 (CCF-C)
-     
- **Joint Rate Allocation and Sensor Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
-   - 作者：**De Hu**, Qilong Li
-   - 会议：Interspeech 2025 (CCF-C)
+**D-GAT: Dual Graph Attention Network for Global HRTF Interpolation**
+- 作者：**Junsheng Hu**, Shaojie Li, Qintuya Si, **De Hu**
+- 会议：Interspeech 2025 (CCF-C)
+  
+**Joint Rate Allocation and Sensor Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
+- 作者：**De Hu**, Qilong Li
+- 会议：Interspeech 2025 (CCF-C)
 
- **Joint Reference Microphone Selection and Filter Order Determination in Multi-channel Active Noise Control**
-   - 作者：**De Hu**, Shuyao Liu, Yanrong He
-   - 会议：Interspeech 2025 (CCF-C)
+**Joint Reference Microphone Selection and Filter Order Determination in Multi-channel Active Noise Control**
+- 作者：**De Hu**, Shuyao Liu, Yanrong He
+- 会议：Interspeech 2025 (CCF-C)
 
- **Temporal Convolutional Network with Smoothed and Weighted Losses for Distant Voice Activity and Overlapped Speech Detection**
-   - 作者：**Shaojie Li**, Qintuya Si, **De Hu**
-   - 会议：Interspeech 2025 (CCF-C)
+**Temporal Convolutional Network with Smoothed and Weighted Losses for Distant Voice Activity and Overlapped Speech Detection**
+- 作者：**Shaojie Li**, Qintuya Si, **De Hu**
+- 会议：Interspeech 2025 (CCF-C)
 
- **A Lightweight Cross-Domain Front-End Feature Extractor for Multichannel Voice Activity and Overlapped Speech Detection**
-   - 作者：**Shaojie Li**, Qintuya Si, **De Hu**
-   - 会议：EUSIPCO 2025 (信号处理领域顶会) 
+**A Lightweight Cross-Domain Front-End Feature Extractor for Multichannel Voice Activity and Overlapped Speech Detection**
+- 作者：**Shaojie Li**, Qintuya Si, **De Hu**
+- 会议：EUSIPCO 2025 (信号处理领域顶会) 
 
- **Joint Input and Output Channel Selection for Multi-channel Feedforward Active Noise Control**
-   - 作者：**Yanrong He**, **De Hu**
-   - 会议：EUSIPCO 2025 (信号处理领域顶会)
+**Joint Input and Output Channel Selection for Multi-channel Feedforward Active Noise Control**
+- 作者：**Yanrong He**, **De Hu**
+- 会议：EUSIPCO 2025 (信号处理领域顶会)
 
- **Reference Microphones Selection for Feedforward Active Noise Control Exploiting Microphone Networks**
-   - 作者：**Yanrong He**, **De Hu**
-   - 会议：EUSIPCO 2025 (信号处理领域顶会) 
+**Reference Microphones Selection for Feedforward Active Noise Control Exploiting Microphone Networks**
+- 作者：**Yanrong He**, **De Hu**
+- 会议：EUSIPCO 2025 (信号处理领域顶会) 
 
 
 
- **Distributed-Robust Source Localization in Wireless Acoustic Sensor Networks**
-   - 作者：Xu Wang，De Hu，Qintuya Si.
-   - 会议：IEEE ICSIP 2025
+**Distributed-Robust Source Localization in Wireless Acoustic Sensor Networks**
+- 作者：Xu Wang，De Hu，Qintuya Si.
+- 会议：IEEE ICSIP 2025
 
- **Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**
-   - 作者：Huaiwen Zhang, **De Hu** et al.
-   - 会议：IEEE ICCV2023 (CCF-A)
+**Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**
+- 作者：Huaiwen Zhang, **De Hu** et al.
+- 会议：IEEE ICCV2023 (CCF-A)
 
- 基于声矢量传感器网络的声源定位算法
-   - 作者：**Wangzhe Jin**, **De Hu**等。
-   - 会议：NCMMSC 2023
+基于声矢量传感器网络的声源定位算法
+- 作者：**Wangzhe Jin**, **De Hu**等。
+- 会议：NCMMSC 2023
 
- **Fast Subnetwork Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
-   - 作者：**De Hu**, Xu Wang, Rui Liu, Feilong Bao
-   - 会议：ICSIP 2023
-   
- 
- **Explicit Intensity Control for Accented Text-to-speech**
-   - 作者：Rui Liu, **De Hu** et al.
-   - 会议：INTERSPEECH2023 (CCF-C)
+**Fast Subnetwork Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
+- 作者：**De Hu**, Xu Wang, Rui Liu, Feilong Bao
+- 会议：ICSIP 2023
+
+
+**Explicit Intensity Control for Accented Text-to-speech**
+- 作者：Rui Liu, **De Hu** et al.
+- 会议：INTERSPEECH2023 (CCF-C)
 
 
 ## 专利
 
 
- **一种基于分布式传感器阵列的MVDR传感器节点选择方法**
-   - 申请人：**呼德**，**张鑫喆**
-   - (公开)
+**一种稳健双耳波束形成方法**
+- 申请人：**呼德**，**关可雨**
+- (公开)
 
- **一种麦克风阵列频响校准方法**
-   - 专利号：CN107864444B
-   - 申请人：陈喆，殷福亮，**呼德**
-   - (授权)
+**一种基于分布式传感器阵列的MVDR传感器节点选择方法**
+- 申请人：**呼德**，**张鑫喆**
+- (公开)
 
- **一种基于多级插值的窄带随机信号生成方法**
-   - 专利号：CN107682096B
-   - 申请人：陈喆，殷福亮，王睿，**呼德**
-   - (授权)
+**一种麦克风阵列频响校准方法**
+- 专利号：CN107864444B
+- 申请人：陈喆，殷福亮，**呼德**
+- (授权)
 
- **一种监控音频信号的数字化装置和方法**
-   - 专利号：CN107221335B
-   - 申请人：陈喆，殷福亮，**呼德**
-   - (授权)
+**一种基于多级插值的窄带随机信号生成方法**
+- 专利号：CN107682096B
+- 申请人：陈喆，殷福亮，王睿，**呼德**
+- (授权)
 
- **混音器及混音方法**
-   - 专利号：CN106504758B
-   - 申请人：陈喆，殷福亮，**呼德**
-   - (授权)
+**一种监控音频信号的数字化装置和方法**
+- 专利号：CN107221335B
+- 申请人：陈喆，殷福亮，**呼德**
+- (授权)
+
+**混音器及混音方法**
+- 专利号：CN106504758B
+- 申请人：陈喆，殷福亮，**呼德**
+- (授权)
 
 
