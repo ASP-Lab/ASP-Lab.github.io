@@ -10,6 +10,11 @@ author_profile: false
 
 
 ## 期刊论文
+**Time difference of arrival estimator based on generative adversarial networks**
+   - 作者：Dai Haoyang, **De Hu**
+   - 期刊：Journal of Signal Processing
+   - 发表时间：2025
+   - 
  **Parametric Binaural Beamforming based on Auditory Perception**
    - 作者：**De Hu**, Xinzhe Zhang
    - 期刊：IEEE Signal Processing Letters(SCI : Q2)
@@ -94,6 +99,40 @@ author_profile: false
 
 
 ## 会议论文
+
+ **Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization**
+   - 作者：**De Hu**, Junsheng Hu, Cuicui Jiang
+   - 会议：AAAI 2025 (CCF-A)
+
+ **D-GAT: Dual Graph Attention Network for Global HRTF Interpolation**
+   - 作者：**Junsheng Hu**, Shaojie Li, Qintuya Si, **De Hu**
+   - 会议：Interspeech 2025 (CCF-C)
+     
+ **Joint Rate Allocation and Sensor Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
+   - 作者：**De Hu**, Qilong Li
+   - 会议：Interspeech 2025 (CCF-C)
+
+ **Joint Reference Microphone Selection and Filter Order Determination in Multi-channel Active Noise Control**
+   - 作者：**De Hu**, Shuyao Liu, Yanrong He
+   - 会议：Interspeech 2025 (CCF-C)
+
+ **Temporal Convolutional Network with Smoothed and Weighted Losses for Distant Voice Activity and Overlapped Speech Detection**
+   - 作者：**Shaojie Li**, Qintuya Si, **De Hu**
+   - 会议：Interspeech 2025 (CCF-C)
+
+ **A Lightweight Cross-Domain Front-End Feature Extractor for Multichannel Voice Activity and Overlapped Speech Detection**
+   - 作者：**Shaojie Li**, Qintuya Si, **De Hu**
+   - 会议：EUSIPCO 2025 (信号处理领域顶会) 
+
+ **Joint Input and Output Channel Selection for Multi-channel Feedforward Active Noise Control**
+   - 作者：**Yanrong He**, **De Hu**
+   - 会议：EUSIPCO 2025 (信号处理领域顶会)
+
+ **Reference Microphones Selection for Feedforward Active Noise Control Exploiting Microphone Networks**
+   - 作者：**Yanrong He**, **De Hu**
+   - 会议：EUSIPCO 2025 (信号处理领域顶会) 
+
+
 
  **Distributed-Robust Source Localization in Wireless Acoustic Sensor Networks**
    - 作者：Xu Wang，De Hu，Qintuya Si.
