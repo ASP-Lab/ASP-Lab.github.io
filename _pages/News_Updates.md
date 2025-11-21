@@ -8,6 +8,21 @@ author_profile: false
 
 {% include base_path %}
 
+**2025-11**
+
+[胡俊升同学关于空间音频（HRTF 个性化）方面的研究《Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization》发表于人工智能顶级会议《AAAI 2026》](/news_update/2025_AAAI_Hjs).
+
+---
+**2025-11**
+
+[代浩阳同学关于 TDOA 估计方面的研究《基于生成对抗网络的到达时间差估计器》被《信号处理》学报收录](/news_update/2025_CSCD_Dhy).
+
+---
+**2025-3** 
+
+[王旭同学关于无线声传感器网络（WASN）方面的研究成果《Robust Self-Localization of Wireless Acoustic Sensor Networks》发表于物联网领域顶级期刊《IEEE Internet of Things Journal》](/news_update/2025_3)
+
+---
 **2024-9** 
 
 [张鑫喆同学关于数字助听器相关研究《Parametric Binaural Beamforming based on Auditory Perception》在IEEE Signal Processing Letters发表](/2024_9_28)
