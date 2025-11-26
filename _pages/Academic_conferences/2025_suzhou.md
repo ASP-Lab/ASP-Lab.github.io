@@ -23,21 +23,21 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 <figure style="text-align:center;">
   <img src="/images/academic_conferences/2025_ICASSP/hy1.jpg" width="650">
   <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图1  ICASSP 2025 主会场外景
+    图1  ICASSP 2025 主会场
   </figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/images/academic_conferences/2025_ICASSP/hy2.jpg" width="650">
   <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图2  会场内部一角（苏州国际博览中心）
+    图2  会场内部
   </figcaption>
 </figure>
 
 <figure style="text-align:center%;">
   <img src="/images/academic_conferences/2025_ICASSP/hy3.jpg" width="650">
   <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图3  嘉宾交流区
+    图3  中国计算机协会
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 <figure style="text-align:center;">
   <img src="/images/academic_conferences/2025_ICASSP/wx.jpg" width="650">
   <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图4  王旭同学在 Poster 区向国内外学者介绍研究成果
+    图4  王旭同学论文在 Poster 区向国内外学者介绍研究成果
   </figcaption>
 </figure>
 
@@ -61,14 +61,14 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 <figure style="text-align:center;">
   <img src="/images/academic_conferences/2025_ICASSP/bwg.jpg" width="650">
   <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图5  苏州博物馆外景（贝聿铭设计）
+    图5  苏州博物馆外景
   </figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/images/academic_conferences/2025_ICASSP/hz.jpg" width="650">
   <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图6  博物馆内部景观与光影空间
+    图6  ASP合照
   </figcaption>
 </figure>
 
