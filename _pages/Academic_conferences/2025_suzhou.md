@@ -54,7 +54,7 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 
 ---
 
-## **参观苏州博物馆 **
+## **参观苏州博物馆**
 
 <div style="text-align:center; margin-bottom:30px;">
   <img src="/images/academic_conferences/2025_ICASSP/bwg.jpg" style="width:80%; max-width:600px; height:auto;">
