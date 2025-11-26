@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "ASP 呼德研究员、李少杰同学、刘姝瑶同学参加 Interspeech 2025（荷兰·鹿特丹）"
-permalink: /news_update/2025_interspeech
+permalink: /Academic_conferences/2025_interspeech
 author_profile: false
 ---
 
