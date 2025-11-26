@@ -38,7 +38,7 @@ redirect_from:
 ---
 **2025-8** 
 
-[ASP 呼德研究员、李少杰同学、刘姝瑶同学赴荷兰鹿特丹参会 INTERSPEECH 2025](/Academic_conferences/2025_INTERSPEECH)
+[ASP 呼德研究员、李少杰同学、刘姝瑶同学赴荷兰鹿特丹参会 INTERSPEECH 2025](/Academic_conferences/2025_interspeech)
 
 ---
 **2025-6** 
