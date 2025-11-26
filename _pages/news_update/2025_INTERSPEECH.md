@@ -29,7 +29,7 @@ author_profile: false
 <div style="text-align: center;">
   <img src="/images/news_update/2025_interspeech/ANC_method_framework.png" alt="MCANC 方法框架示意图" style="width: 80%; max-width: 600px;">
 </div>
-<center>图1 MCANC 同步优化方法框架示意图</center>
+<center>图1 主动降噪的系统框架图 </center>
 
 ---
 
@@ -49,7 +49,7 @@ author_profile: false
 <div style="text-align: center;">
   <img src="/images/news_update/2025_interspeech/WASN_RASS_framework.png" alt="FI-RASS 模型结构图" style="width: 80%; max-width: 600px;">
 </div>
-<center>图2 FI-RASS 频率一致性约束框架示意图</center>
+<center>图2 传感器选择与比特分布结果：(a) 传感器选择  (b) 速率分布</center>
 
 ---
 
@@ -68,7 +68,7 @@ HRTF（头相关传递函数）在 VR/AR 空间音频中至关重要，但其高
 <div style="text-align: center;">
   <img src="/images/news_update/2025_interspeech/DGAT_framework.png" alt="D-GAT 网络结构示意图" style="width: 80%; max-width: 600px;">
 </div>
-<center>图3 D-GAT 双图注意力插值框架示意图</center>
+<center>图3 D-GAT 双图注意力网络框架示意图</center>
 
 ---
 
@@ -87,7 +87,7 @@ HRTF（头相关传递函数）在 VR/AR 空间音频中至关重要，但其高
 <div style="text-align: center;">
   <img src="/images/news_update/2025_interspeech/TCN_VAD_framework.png" alt="TCN VAD/OSD 框架示意图" style="width: 80%; max-width: 600px;">
 </div>
-<center>图4 TCN + 加权与平滑损失的远讲语音检测框架示意图</center>
+<center>图4 VAD + OSD的总体架构 </center>
 
 ---
 
