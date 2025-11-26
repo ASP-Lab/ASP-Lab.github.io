@@ -26,9 +26,29 @@ redirect_from:
 [胡俊升同学关于空间音频（HRTF 个性化）方面的研究《Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization》发表于人工智能顶级会议《AAAI 2026》](/news_update/2025_AAAI_Hjs).
 
 ---
-**2025-11**
+**2025-10**
 
 [代浩阳同学关于 TDOA 估计方面的研究《基于生成对抗网络的到达时间差估计器》被《信号处理》学报收录](/news_update/2025_CSCD_Dhy).
+
+---
+**2025-9** 
+
+[ASP 呼德研究员、何艳榕同学赴意大利西西里岛参会 EUSIPCO 2025](/Academic_conferences/2025_EUSIPCO)
+
+---
+**2025-8** 
+
+[ASP 呼德研究员、李少杰同学、刘姝瑶同学赴荷兰鹿特丹参会 INTERSPEECH 2025](/Academic_conferences/2025_INTERSPEECH)
+
+---
+**2025-6** 
+
+[我组三篇论文被国际语音大会 EUSIPCO 2025 录用](/news_update/2025_EUSIPCO)
+
+---
+**2025-5** 
+
+[我组四篇论文被国际语音大会 INTERSPEECH 2025 录用](/news_update/2025_INTERSPEECH)
 
 ---
 **2025-3** 
