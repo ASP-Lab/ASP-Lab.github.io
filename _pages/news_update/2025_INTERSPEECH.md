@@ -16,7 +16,6 @@ author_profile: false
 # **1. Reference Subset Selection Considering Filter Length for Multi-channel Active Noise Control**
 
 **作者：** 呼德（通讯作者）、刘姝瑶、何艳榕  
-**单位：** 内蒙古大学
 
 在多通道有源噪声控制系统中，更多的参考麦克风可带来更强的降噪能力，但也意味着更高的计算代价。本文提出一种 **同时选择参考麦克风子集与自适应确定滤波器阶数** 的优化方法：
 
@@ -36,7 +35,6 @@ author_profile: false
 # **2. Joint Rate Allocation and Sensor Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
 
 **作者：** 呼德（通讯作者）、李琪龙  
-**单位：** 内蒙古大学
 
 在能量受限的无线声学传感器网络中，高能效语音增强是核心挑战。本文提出一种 **频率不变的比特率分配 + 传感器选择联合优化（FI-RASS）方法**：
 
@@ -92,6 +90,3 @@ HRTF（头相关传递函数）在 VR/AR 空间音频中至关重要，但其高
 ---
 
 四篇论文的录用充分展示了我组在 **空间音频、主动降噪、语音增强、语音前端处理** 等方向的持续探索与创新。未来，我们将继续面向智能声学的核心问题深入研究，推动相关技术在实际系统中的应用。
-
-论文链接：待会议正式出版后更新。
-
