@@ -20,24 +20,24 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 
 ## **会议现场照片**
 
-<figure style="text-align:center;">
-  <img src="/images/academic_conferences/2025_ICASSP/hy1.jpg" width="650">
-  <figcaption style="font-size:14px; color:#555; margin-top:6px;">
+<figure style="text-align:center; margin-bottom:30px;">
+  <img src="/images/academic_conferences/2025_ICASSP/hy1.jpg" style="max-width:90%; height:auto;">
+  <figcaption style="font-size:16px; font-weight:500; color:#333; margin-top:8px;">
     图1  ICASSP 2025 主会场
   </figcaption>
 </figure>
 
-<figure style="text-align:center;">
-  <img src="/images/academic_conferences/2025_ICASSP/hy2.jpg" width="650">
-  <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图2  会场内部
+<figure style="text-align:center; margin-bottom:30px;">
+  <img src="/images/academic_conferences/2025_ICASSP/hy2.jpg" style="max-width:90%; height:auto;">
+  <figcaption style="font-size:16px; font-weight:500; color:#333; margin-top:8px;">
+    图2  会场内部一角
   </figcaption>
 </figure>
 
-<figure style="text-align:center%;">
-  <img src="/images/academic_conferences/2025_ICASSP/hy3.jpg" width="650">
-  <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图3  中国计算机协会
+<figure style="text-align:center; margin-bottom:30px;">
+  <img src="/images/academic_conferences/2025_ICASSP/hy3.jpg" style="max-width:90%; height:auto;">
+  <figcaption style="font-size:16px; font-weight:500; color:#333; margin-top:8px;">
+    图3  嘉宾交流区
   </figcaption>
 </figure>
 
@@ -45,10 +45,10 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 
 ## **王旭同学 Poster 展示**
 
-<figure style="text-align:center;">
-  <img src="/images/academic_conferences/2025_ICASSP/wx.jpg" width="650">
-  <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图4  王旭同学论文在 Poster 区向国内外学者介绍研究成果
+<figure style="text-align:center; margin-bottom:30px;">
+  <img src="/images/academic_conferences/2025_ICASSP/wx.jpg" style="max-width:90%; height:auto;">
+  <figcaption style="font-size:16px; font-weight:500; color:#333; margin-top:8px;">
+    图4  王旭同学在 Poster 区介绍研究成果
   </figcaption>
 </figure>
 
@@ -56,24 +56,20 @@ ICASSP 是 IEEE 信号处理协会（IEEE SPS）的旗舰会议，也是全球�
 
 ## **参观苏州博物馆（贝聿铭设计）**
 
-在会议之余，团队前往著名的 **苏州博物馆（新馆）** 参观学习，感受苏州园林与现代建筑结合的独特魅力。
-
-<figure style="text-align:center;">
-  <img src="/images/academic_conferences/2025_ICASSP/bwg.jpg" width="650">
-  <figcaption style="font-size:14px; color:#555; margin-top:6px;">
+<figure style="text-align:center; margin-bottom:30px;">
+  <img src="/images/academic_conferences/2025_ICASSP/bwg.jpg" style="max-width:90%; height:auto;">
+  <figcaption style="font-size:16px; font-weight:500; color:#333; margin-top:8px;">
     图5  苏州博物馆外景
   </figcaption>
 </figure>
 
-<figure style="text-align:center;">
-  <img src="/images/academic_conferences/2025_ICASSP/hz.jpg" width="650">
-  <figcaption style="font-size:14px; color:#555; margin-top:6px;">
-    图6  ASP合照
+<figure style="text-align:center; margin-bottom:30px;">
+  <img src="/images/academic_conferences/2025_ICASSP/hz.jpg" style="max-width:90%; height:auto;">
+  <figcaption style="font-size:16px; font-weight:500; color:#333; margin-top:8px;">
+    图6  ASP团队合影
   </figcaption>
 </figure>
 
 ---
 
-ASP 团队将继续面向国际一流会议，推动声学与信号处理领域的前沿研究不断发展，并持续为高水平科研成果的输出贡献力量。
-
-
+ASP 团队将继续面向国际一流会议，推动声学与信号处理领域的前沿研究不断发展，并持续为高水平科研成果的输出贡献力量.
