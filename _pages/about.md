@@ -51,6 +51,11 @@ redirect_from:
 [我组四篇论文被国际语音大会 INTERSPEECH 2025 录用](/news_update/2025_INTERSPEECH)
 
 ---
+**2025-5** 
+
+[ASP 呼德研究员、王旭同学、李少杰同学等赴苏州参会 ICASSP 2025](/Academic_conferences/2025_suzhou)
+
+---
 **2025-3** 
 
 [王旭同学关于无线声传感器网络（WASN）方面的研究成果《Robust Self-Localization of Wireless Acoustic Sensor Networks》发表于物联网领域顶级期刊《IEEE Internet of Things Journal》](/news_update/2025_3)
