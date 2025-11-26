@@ -68,7 +68,7 @@ author_profile: false
 
 除了紧凑的学术活动外，三位成员也在会议期间体验了鹿特丹的城市文化。鹿特丹以现代建筑与港口文化著称，团队在天鹅桥、立方体屋、马尔克塔等地进行了合影留念。
 
-### 🔹 风景照（4 张）
+### 🔹 风景与文化展示
 
 <div align="center">
   <img src="/images/news_update/2025_interspeech/fj1.jpg" alt="鹿特丹风景1" width="650">
