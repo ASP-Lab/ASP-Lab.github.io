@@ -1,99 +1,127 @@
 ---
 layout: archive
-title: "ASP 呼德研究员、李少杰同学、刘姝瑶同学参加 Interspeech 2025（荷兰·鹿特丹）"
+title: "ASP 课题组参加 Interspeech 2025（荷兰·鹿特丹）"
 permalink: /Academic_conferences/2025_interspeech
 author_profile: false
 ---
 
-{% include base_path %}
+**新闻动态：**
 
-# **新闻动态：**
+2025 年 8 月，ASP 课题组呼德研究员带领博士生李少杰、硕士生刘姝瑶前往 **荷兰·鹿特丹**，参加全球语音领域最高级别会议之一 ——  
+**Interspeech 2025**。该会议由 ISCA 主办，聚焦语音处理、声学信号建模、人机交互、听觉智能等相关方向，是语音技术研究者的年度顶级盛会。
 
-2025 年 8 月，ASP 课题组呼德研究员、博士生李少杰、硕士生刘姝瑶赴 **荷兰鹿特丹** 参加全球语音技术领域旗舰会议 **Interspeech 2025**。该会议是国际语音通信协会（ISCA）主办的世界顶级学术会议，汇聚了来自全球语音信号处理、语音识别、听觉模型、声学 AI 等领域的顶尖研究者。
-
-本次参会中，课题组在 **自适应主动降噪（ANC）**、**多通道语音活动检测（VAD）** 等方向的最新研究成果在国际舞台上展示，与来自世界各地的专家学者展开了深入交流，进一步提升了团队在国际声学与语音处理领域的影响力。
+本次会议中，ASP 团队围绕 **语音活动检测（VAD）**、**主动降噪（ANC）**、 等方向展示了最新科研成果，并与国际顶尖研究团队进行了充分交流，有力提升了课题组在国际声学与语音处理领域的影响力。
 
 ---
 
-## **学术报告与展示**
+##  **学术报告与展示**
 
-### 🔹 李少杰：口头报告  
-李少杰同学受邀进行 **口头报告（Oral Presentation）**，详细介绍了团队在多通道语音活动检测、语音重叠检测方面的最新成果。报告获得现场多位领域专家的积极反馈，与来自德国、韩国、荷兰等团队的学者进行了深入交流。
+### 1. 李少杰 —— 口头报告（Oral Presentation）
+
+李少杰博士生受邀进行口头报告，系统介绍了团队在 **多通道语音活动检测与重叠语音识别** 方向的研究进展。现场讨论气氛热烈，多位国际学者对方法的创新性与系统性给予高度评价。
 
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/lsj.jpg" alt="李少杰口头报告" width="650">
+  <img src="/images/news_update/2025_interspeech/lsj.jpg" alt="李少杰口头报告" width="650"><br>
+  <em>图 1  李少杰同学在 Interspeech 2025 进行口头报告</em>
 </div>
 
 ---
 
-### 🔹 刘姝瑶：Poster 展示  
-刘姝瑶同学展示了其在主动降噪方向的最新研究，吸引了多位研究者驻足讨论。
+### 2. 刘姝瑶 —— Poster 展示
+
+刘姝瑶硕士生在 poster 环节展示了课题组在 **自适应主动降噪前端与信号建模** 方面的最新成果，吸引了多位研究者驻足交流，并与来自欧洲多所高校的团队展开深入讨论。
 
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/lsy1.jpg" alt="刘姝瑶 Poster 展示1" width="650">
+  <img src="/images/news_update/2025_interspeech/lsy2.jpg" alt="刘姝瑶 Poster 展示" width="650"><br>
+  <em>图 2  刘姝瑶 Poster 展示现场交流</em>
 </div>
 
 ---
 
+### 3. 刘姝瑶 —— Interspeech 打卡
+
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/lsy2.jpg" alt="刘姝瑶 Poster 展示2" width="650">
+  <img src="/images/news_update/2025_interspeech/lsy1.jpg" alt="刘姝瑶 Interspeech 打卡" width="650"><br>
+  <em>图 3  刘姝瑶在 Interspeech 2025 会场打卡留念</em>
 </div>
 
 ---
 
-## **学术交流与合作探讨**
+##  **学术交流与合作探讨**
 
-会议期间，呼德研究员与多位国际知名学者进行了面对面交流，包括不同国家声学阵列、空间音频、主动降噪方向的顶尖团队。通过交流，探讨了未来在 **分布式声学感知、空间音频个性化、ANC 智能化** 等领域的合作机会。
+会议期间，呼德研究员与来自全球语音增强、主动降噪、空间音频、多模态声学感知等方向的专家进行了多场深度交流，探讨未来合作机会。
 
-### 🔹 呼德研究员与多位学界大佬合影  
-
-<div align="center">
-  <img src="/images/news_update/2025_interspeech/hood1.jpg" alt="Hood 与专家合照1" width="580">
-</div>
----
+### 4. 与俞凯教授探讨 ANC 相关研究方向
 
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/hood2.jpg" alt="Hood 与专家合照2" width="580">
+  <img src="/images/news_update/2025_interspeech/hood1.jpg" alt="与俞凯讨论" width="600"><br>
+  <em>图 4  呼德研究员与俞凯教授深入交流 ANC 相关问题</em>
 </div>
 
 ---
 
+### 5. 与 Sharon Gannot 探讨语音增强问题
+
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/hood3.jpg" alt="Hood 与专家合照3" width="580">
+  <img src="/images/news_update/2025_interspeech/hood2.jpg" alt="与 Sharon Gannot 交流" width="600"><br>
+  <em>图 5  呼德研究员与 Sharon Gannot 教授讨论语音增强前沿方向</em>
 </div>
 
 ---
 
-## **鹿特丹风光与文化体验**
-
-除了紧凑的学术活动外，三位成员也在会议期间体验了鹿特丹的城市文化。鹿特丹以现代建筑与港口文化著称，团队在天鹅桥、立方体屋、马尔克塔等地进行了合影留念。
-
-### 🔹 风景与文化展示
+### 6. 与 Yoshiki Masuyama 探讨空间音频
 
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/fj1.jpg" alt="鹿特丹风景1" width="650">
+  <img src="/images/news_update/2025_interspeech/hood3.jpg" alt="与 Masuyama 交流" width="600"><br>
+  <em>图 6  呼德研究员与 Yoshiki Masuyama 探讨空间音频建模与个性化 HRTF</em>
 </div>
 
 ---
 
+##  **荷兰风光与文化体验**
+
+在紧张的学术交流之余，团队成员也参观了海牙、鹿特丹等城市的文化与艺术景点，感受荷兰的独特魅力。
+
+### 7. 海牙 · 马德罗丹小人国（Madurodam）
+
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/fj2.jpg" alt="鹿特丹风景2" width="650">
+  <img src="/images/news_update/2025_interspeech/fj1.jpg" alt="马德罗丹小人国" width="650"><br>
+  <em>图 7  海牙马德罗丹小人国，全景式展示荷兰城市风貌</em>
 </div>
 
 ---
 
+### 8. 《戴珍珠耳环的少女》 · 海牙莫瑞泰斯皇家美术馆
+
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/fj3.jpg" alt="鹿特丹风景3" width="650">
+  <img src="/images/news_update/2025_interspeech/fj2.jpg" alt="戴珍珠耳环的少女" width="650"><br>
+  <em>图 8  《戴珍珠耳环的少女》真迹所在地：海牙莫瑞泰斯美术馆</em>
 </div>
 
 ---
 
+### 9. Banquet 音乐会（鹿特丹）
+
 <div align="center">
-  <img src="/images/news_update/2025_interspeech/fj4.jpg" alt="鹿特丹风景4" width="650">
+  <img src="/images/news_update/2025_interspeech/fj3.jpg" alt="Banquet 音乐会" width="650"><br>
+  <em>图 9  Banquet 音乐会现场，感受荷兰的城市艺术氛围</em>
 </div>
 
 ---
 
-本次 Interspeech 2025 之行，不仅展示了 ASP 课题组在语音信号处理领域的最新成果，也进一步拓宽了与国际一流研究团队交流合作的渠道。
+### 10. 鹿特丹 · 方块屋（Kubuswoningen）
 
-未来，课题组将继续在声学感知、语音处理、WASN、空间音频等方向深耕，持续产出高水平研究成果，推动智能声学技术的发展。
+<div align="center">
+  <img src="/images/news_update/2025_interspeech/fj4.jpg" alt="鹿特丹方块屋" width="650"><br>
+  <em>图 10  鹿特丹著名地标建筑：创新设计的方块屋（Kubuswoningen）</em>
+</div>
+
+---
+
+##  **总结**
+
+Interspeech 2025 为 ASP 课题组提供了与国际顶尖研究者深度交流的机会。通过口头报告、Poster 展示与学术讨论，团队在语音信号处理、ANC、空间音频、WASN 等方向的最新进展得到了广泛关注。
+
+未来，ASP 课题组将继续在智能声学、语音感知、无线声学传感器网络等领域探索突破，持续推动相关技术的发展。
+
+---
