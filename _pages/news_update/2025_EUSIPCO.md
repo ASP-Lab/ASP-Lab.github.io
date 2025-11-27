@@ -41,7 +41,7 @@ author_profile: false
 
 # **2. Reference Microphones Selection for Feedforward Active Noise Control Exploiting Microphone Networks**
 
-**作者**：Yanrong He（内蒙古大学硕士研究生）、**De Hu**  
+**作者**：Yanrong He、**De Hu**  
 
 ### **研究背景**  
 传统前馈主动噪声控制（ANC）系统通常依赖在噪声源附近部署一个或多个参考麦克风（Reference Microphones, RM）采集噪声信号。然而现实中噪声源位置常常未知且随时间变化，使参考信号不再“干净”，从而导致控制性能下降。
@@ -68,7 +68,7 @@ author_profile: false
 
 # **3. Joint Input and Output Channel Selection for Multi-channel Feedforward Active Noise Control**
 
-**作者**：Yanrong He（内蒙古大学硕士研究生）、**De Hu**  
+**作者**：Yanrong He 、**De Hu**  
 **通讯作者**：De Hu
 
 ### **研究背景**  
