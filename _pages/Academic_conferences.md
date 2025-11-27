@@ -11,7 +11,7 @@ author_profile: false
 
 **2025-9** 
 
-[ASP Lab前往意大利西西里岛参加EUSIPCO 2025会议](/Academic_conferences/2025_eusipco)
+[ASP 呼德研究员、何艳榕同学前往意大利西西里岛参加EUSIPCO 2025会议](/Academic_conferences/2025_eusipco)
 
 ---
 
