@@ -11,14 +11,14 @@ author_profile: false
 
 **2025-9** 
 
-[ASP Lab前往意大利西西里岛参加EUSIPCO 2025会议](/Academic_conferences/2025_Sicilia)
+[ASP Lab前往意大利西西里岛参加EUSIPCO 2025会议](/Academic_conferences/2025_eusipco)
 
 ---
 
 
 **2025-8** 
 
-[ASP Lab前往荷兰鹿特丹参加Interspeech 2025会议](/Academic_conferences/2025_Rotterdam)
+[ASP 呼德研究员、李少杰同学、刘姝瑶同学赴荷兰鹿特丹参会 INTERSPEECH 2025](/Academic_conferences/2025_interspeech)
 
 ---
 
