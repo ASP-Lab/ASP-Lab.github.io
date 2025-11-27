@@ -33,7 +33,7 @@ redirect_from:
 ---
 **2025-9** 
 
-[ASP 呼德研究员、何艳榕同学赴意大利西西里岛参会 EUSIPCO 2025](/Academic_conferences/2025_EUSIPCO)
+[ASP 呼德研究员、何艳榕同学赴意大利西西里岛参会 EUSIPCO 2025](/Academic_conferences/2025_eusipco)
 
 ---
 **2025-8** 
