@@ -53,6 +53,11 @@ author_profile: false
 [王旭同学关于无线声传感器网络（WASN）方面的研究成果《Robust Self-Localization of Wireless Acoustic Sensor Networks》发表于物联网领域顶级期刊《IEEE Internet of Things Journal》](/news_update/2025_3)
 
 ---
+**2025-2** 
+
+[王旭同学关于声源定位任务的论文《Distributed-Robust Source Localization in Wireless Acoustic Sensor Networks》被 ICASSP 2025 接收](/news_update/2024_ICASSP_WX)
+
+---
 **2024-9** 
 
 [张鑫喆同学关于数字助听器相关研究《Parametric Binaural Beamforming based on Auditory Perception》在IEEE Signal Processing Letters发表](/2024_9_28)
