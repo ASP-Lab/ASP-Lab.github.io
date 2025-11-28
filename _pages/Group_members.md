@@ -18,38 +18,28 @@ author_profile: false
 }
 </style>
 
-
 ## 指导老师
-<!--
-<div style="width: 400px;">
-  <img src="/images/group_members/呼德.jpg" alt="呼德" style="width: 400px;">
+
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="/images/group_members/呼德.jpg" alt="呼德" class="member-img" style="width:280px; height:280px;">
+  <p><strong>呼德</strong></p>
+  <p>研究方向：声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</p>
 </div>
 
+---
 
-<table style="width: 400px;">
+## 青年导师
+
+<table style="width:100%; text-align:center;">
   <tr>
-    <td align="center"><strong>呼德</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>研究方向：</strong>声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</td>
+    <td>
+      <img src="/images/group_members/赵清颖.jpg" alt="赵清颖" class="member-img">
+      <br><strong>赵清颖</strong>
+      <br>研究方向：语音增强；无线声传感器网络；分布式信号处理等
+    </td>
   </tr>
 </table>
--->
 
-<div style="text-align: center;">
-  <div style="width: 400px; margin-left: 10%; ">
-    <img src="/images/group_members/呼德.jpg" alt="呼德" style="width: 400px;">
-  </div>
-
-  <table style="width: 400px; margin-left: 10%; ">
-    <tr>
-      <td align="center"><strong>呼德</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>研究方向：</strong>声信号处理；麦克风网络；分布式数据处理；多媒体信息处理等</td>
-    </tr>
-  </table>
-</div>
 
 
 ## 博士
