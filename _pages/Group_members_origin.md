@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "组内成员"
-permalink: /Group_members/
+permalink: /Group_members_origin/
 author_profile: false
 ---
 
