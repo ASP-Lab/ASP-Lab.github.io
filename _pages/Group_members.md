@@ -49,7 +49,6 @@ author_profile: false
 
 ---
 
-# 青年导师
 
 <div style="text-align:center; margin-bottom: 40px;">
   <img src="/images/group_members/赵清颖.jpg" alt="赵清颖" class="teacher-img">
