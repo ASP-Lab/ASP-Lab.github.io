@@ -141,7 +141,7 @@ author_profile: false
 
 **Distributed-Robust Source Localization in Wireless Acoustic Sensor Networks**
 - 作者：Xu Wang，De Hu，Qintuya Si.
-- 会议：IEEE ICSIP 2025
+- 会议：IEEE ICASSP 2025
 
 **Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**
 - 作者：Huaiwen Zhang, **De Hu** et al.
