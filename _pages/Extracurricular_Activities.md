@@ -4,6 +4,15 @@ title: "课余生活"
 author_profile: false
 
 ---
+## 元旦聚餐
+
+<div style="text-align: center;margin-bottom: 20px;">
+  <img src="/images/extracurricular_activities/2026元旦聚餐.jpg" alt="2026元旦聚餐" style="height:500px;">
+</div>
+&nbsp;&nbsp;元旦期间，导师邀请课题组成员一起外出聚餐，共同迎接新一年的到来🎉！  
+&nbsp;&nbsp;大家围坐在一起享用自助美食，在轻松愉快的氛围中增进交流，感受团队的温暖与凝聚力🍽️。
+
+---
 
 ## 篮球赛
 
