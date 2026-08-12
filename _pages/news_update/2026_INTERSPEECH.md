@@ -1,10 +1,9 @@
 ---
-
 layout: archive
 title: "我组四篇论文被 INTERSPEECH 2026 录用"
 permalink: /news_update/2026_INTERSPEECH
 author_profile: false
----------------------
+---
 
 {% include base_path %}
 
