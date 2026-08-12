@@ -11,10 +11,10 @@ author_profile: false
 
 ## 期刊论文
 **Active Noise Control Incorporating External Wireless Acoustic Sensors**
-   - 作者：呼德, 何艳榕, 赵清颖, **李军锋**
+   - 作者：De Hu, Yanrong He, Qingying Zhao, **Junfeng Li**
    - 期刊：The Journal of the Acoustical Society of America (JASA)
    - 发表时间：2026
-   - 
+    
 **基于生成对抗网络的到达时间差估计器**
    - 作者：代浩阳, **呼德**
    - 期刊：信号处理(CSCD)
