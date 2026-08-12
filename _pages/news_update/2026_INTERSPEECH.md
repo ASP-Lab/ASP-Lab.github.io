@@ -25,7 +25,7 @@ author_profile: false
 * **稀疏测量下的高精度重建**：实验结果表明，该方法能够有效提升个性化 HRTF 的重建性能，为降低个体 HRTF 测量成本提供了新的解决思路。
 
 <div style="text-align: center;">
-  <img src="/images/news_update/2026_interspeech/SA_HRTF_framework.png" alt="SA-HRTF 模型框架示意图" style="width: 80%; max-width: 600px;">
+  <img src="/images/news_update/2026_INTERSPEECH/SA_HRTF_framework.png" alt="SA-HRTF 模型框架示意图" style="width: 80%; max-width: 600px;">
 </div>
 <center>图1 SA-HRTF 声音辅助个性化 HRTF 建模框架</center>
 
@@ -43,7 +43,7 @@ author_profile: false
 * **面向实际助听设备部署**：与传统 BSE-ANC 方法相比，ABSE-NET 在实际部署过程中无需耳内麦克风，在降低系统部署复杂度的同时取得了优于现有方法的客观语音增强性能。
 
 <div style="text-align: center;">
-  <img src="/images/news_update/2026_interspeech/ABSE_NET_framework.png" alt="ABSE-NET 模型框架示意图" style="width: 80%; max-width: 600px;">
+  <img src="/images/news_update/2026_INTERSPEECH/ABSE_NET_framework.png" alt="ABSE-NET 模型框架示意图" style="width: 80%; max-width: 600px;">
 </div>
 <center>图2 ABSE-NET 主动双耳语音增强总体框架</center>
 
@@ -61,7 +61,7 @@ author_profile: false
 * **多阶段高效求解策略**：针对计算资源受限或实时性要求较高的应用场景，进一步提出多阶段求解方法，在降低计算开销的同时保持较好的校准性能。
 
 <div style="text-align: center;">
-  <img src="/images/news_update/2026_interspeech/Optimal_Source_Placement.png" alt="最优校准声源位置示意图" style="width: 80%; max-width: 600px;">
+  <img src="/images/news_update/2026_INTERSPEECH/Optimal_Source_Placement.png" alt="最优校准声源位置示意图" style="width: 80%; max-width: 600px;">
 </div>
 <center>图3 分布式麦克风阵列几何校准中的最优声源布置示意图</center>
 
@@ -79,7 +79,7 @@ author_profile: false
 * **兼顾精度、鲁棒性与计算效率**：在相同网格分辨率下，G2C-NET 在模拟数据上取得 **25.52 cm RMSE 和 78.63% 的 30 cm 定位准确率**，在真实数据上取得 **23.35 cm RMSE 和 81.15% 的定位准确率**，并能够适应 4–7 个麦克风节点，在强混响及节点数量较少的情况下仍保持较好的定位性能。
 
 <div style="text-align: center;">
-  <img src="/images/news_update/2026_interspeech/G2C_NET_framework.png" alt="G2C-NET 网络框架示意图" style="width: 80%; max-width: 600px;">
+  <img src="/images/news_update/2026_INTERSPEECH/G2C_NET_framework.png" alt="G2C-NET 网络框架示意图" style="width: 80%; max-width: 600px;">
 </div>
 <center>图4 G2C-NET 从空间网格到连续声源坐标的定位框架</center>
 
