@@ -16,6 +16,12 @@ redirect_from:
 
 
 ##  近期新闻： 
+**2026-5** 
+
+[我组四篇论文被国际语音大会 INTERSPEECH 2026 录用](/news_update/2026_INTERSPEECH)
+
+---
+
 **2026-03**
 
 [王旭同学关于在声传感器网络方面的研究《Robust Self-Localization of Wireless Acoustic Sensor Networks in the Presence of TDoA Outliers》发表在国际顶级期刊IEEE Transactions on Mobile Computing](/news_update/2026_TMC_WX).
