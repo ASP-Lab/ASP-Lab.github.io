@@ -7,6 +7,11 @@ author_profile: false
 ---
 
 {% include base_path %}
+**2026-5** 
+
+[我组四篇论文被国际语音大会 INTERSPEECH 2026 录用](/news_update/2026_INTERSPEECH)
+
+---
 
 **2025-11**
 
