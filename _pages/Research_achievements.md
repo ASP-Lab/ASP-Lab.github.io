@@ -10,6 +10,11 @@ author_profile: false
 
 
 ## 期刊论文
+**Active Noise Control Incorporating External Wireless Acoustic Sensors**
+   - 作者：呼德, 何艳榕, 赵清颖, **李军锋**
+   - 期刊：The Journal of the Acoustical Society of America (JASA)
+   - 发表时间：2026
+   - 
 **基于生成对抗网络的到达时间差估计器**
    - 作者：代浩阳, **呼德**
    - 期刊：信号处理(CSCD)
@@ -105,25 +110,41 @@ author_profile: false
 
 ## 会议论文
 
+**G2C-NET: A Grid-to-Continuous Neural Network for Sound Source Localization in Distributed Microphone Arrays**
+- 作者：**Zhiyuan Yue**,**De Hu**
+- 会议：Interspeech 2026 (CCF-B)
+
+**Optimal Source Placement for TDoA-based Geometry Calibration of Distributed Microphone Arrays**
+- 作者：**Xu Wang**, Qintuya Si, Qingying Zhao, **De Hu**
+- 会议：Interspeech 2026 (CCF-B)
+
+**ABSE-NET: A Lightweight Neural Model for Active Binaural Speech Enhancement in Open-Fit Hearing Aids**
+- 作者：**De hu**, Xue Du, Qingying Zhao, **Qintuya Si**
+- 会议：Interspeech 2026 (CCF-B)
+
+**SA-HRTF: A Sound-Assisted Approach to Personalized HRTF Modeling**
+- 作者：**Qingying Zhao**, Siyuan Chen, **De Hu**
+- 会议：Interspeech 2026 (CCF-B)
+  
 **Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization**
 - 作者：**De Hu**, Junsheng Hu, Cuicui Jiang
 - 会议：AAAI 2025 (CCF-A)
 
 **D-GAT: Dual Graph Attention Network for Global HRTF Interpolation**
 - 作者：**Junsheng Hu**, Shaojie Li, Qintuya Si, **De Hu**
-- 会议：Interspeech 2025 (CCF-C)
+- 会议：Interspeech 2025 (CCF-B)
   
 **Joint Rate Allocation and Sensor Selection for Speech Enhancement in Wireless Acoustic Sensor Networks**
 - 作者：**De Hu**, Qilong Li
-- 会议：Interspeech 2025 (CCF-C)
+- 会议：Interspeech 2025 (CCF-B)
 
 **Joint Reference Microphone Selection and Filter Order Determination in Multi-channel Active Noise Control**
 - 作者：**De Hu**, Shuyao Liu, Yanrong He
-- 会议：Interspeech 2025 (CCF-C)
+- 会议：Interspeech 2025 (CCF-B)
 
 **Temporal Convolutional Network with Smoothed and Weighted Losses for Distant Voice Activity and Overlapped Speech Detection**
 - 作者：**Shaojie Li**, Qintuya Si, **De Hu**
-- 会议：Interspeech 2025 (CCF-C)
+- 会议：Interspeech 2025 (CCF-B)
 
 **A Lightweight Cross-Domain Front-End Feature Extractor for Multichannel Voice Activity and Overlapped Speech Detection**
 - 作者：**Shaojie Li**, Qintuya Si, **De Hu**
