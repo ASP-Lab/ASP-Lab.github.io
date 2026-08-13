@@ -19,6 +19,11 @@ redirect_from:
 ---
 **2026-8** 
 
+[李少杰同学在语音活动检测方面的研究《Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks》发表在语音信号处理顶级期刊 IEEE Transactions on Audio, Speech and Language Processing](/news_update/2026_TASLPRO_LSJ)
+
+---
+**2026-8** 
+
 [何艳榕同学在主动噪声控制方面的研究《Active Noise Control Incorporating External Wireless Acoustic Sensors》发表在声学顶级期刊 The Journal of the Acoustical Society of America](/news_update/2026_JASA_HYR)
 
 ---
