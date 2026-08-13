@@ -1,10 +1,10 @@
----
 
+---
 layout: archive
-title: "ASP 课题组论文《Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks》被 IEEE Transactions on Audio, Speech and Language Processing 录用"
+title: "ASP 课题组论文《Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks》被 IEEE Transactions on Audio, Speech and Language Processing"
 permalink: /news_update/2026_TASLPRO_LSJ
 author_profile: false
----------------------
+---
 
 {% include base_path %}
 
