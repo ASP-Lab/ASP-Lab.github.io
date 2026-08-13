@@ -7,6 +7,13 @@ author_profile: false
 ---
 
 {% include base_path %}
+
+---
+**2026-8** 
+
+[李少杰同学在语音活动检测方面的研究《Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks》发表在语音信号处理顶级期刊 IEEE Transactions on Audio, Speech and Language Processing](/news_update/2026_TASLPRO_LSJ)
+
+
 ---
 **2026-8** 
 
