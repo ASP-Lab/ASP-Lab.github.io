@@ -1,10 +1,9 @@
 ---
-
 layout: archive
 title: "ASP 课题组论文《Active Noise Control Incorporating External Wireless Acoustic Sensors》发表于声学顶级期刊 JASA"
 permalink: /news_update/2026_JASA_HYR
 author_profile: false
----------------------
+---
 
 {% include base_path %}
 
