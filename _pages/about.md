@@ -16,6 +16,12 @@ redirect_from:
 
 
 ##  近期新闻： 
+---
+**2026-8** 
+
+[呼德研究员在主动噪声控制方面的研究《Active Noise Control Incorporating External Wireless Acoustic Sensors》发表在声学顶级期刊 The Journal of the Acoustical Society of America](/news_update/2026_JASA_HYR)
+
+---
 **2026-5** 
 
 [我组四篇论文被国际语音大会 INTERSPEECH 2026 录用](/news_update/2026_INTERSPEECH)
