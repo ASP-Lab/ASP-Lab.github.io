@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "ASP 课题组论文《Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks》被 IEEE Transactions on Audio, Speech and Language Processing"
