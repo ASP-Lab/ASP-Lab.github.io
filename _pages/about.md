@@ -19,7 +19,7 @@ redirect_from:
 ---
 **2026-8** 
 
-[呼德研究员在主动噪声控制方面的研究《Active Noise Control Incorporating External Wireless Acoustic Sensors》发表在声学顶级期刊 The Journal of the Acoustical Society of America](/news_update/2026_JASA_HYR)
+[何艳榕同学在主动噪声控制方面的研究《Active Noise Control Incorporating External Wireless Acoustic Sensors》发表在声学顶级期刊 The Journal of the Acoustical Society of America](/news_update/2026_JASA_HYR)
 
 ---
 **2026-5** 
