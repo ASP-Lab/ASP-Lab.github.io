@@ -10,6 +10,12 @@ author_profile: false
 
 
 ## 期刊论文
+
+**Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks**
+   - 作者：De Hu, Shaojie Li, Qingying Zhao, **Junfeng Li**
+   - 期刊：IEEE Transactions on Audio, Speech, and Language Processing
+   - 发表时间：2026
+
 **Active Noise Control Incorporating External Wireless Acoustic Sensors**
    - 作者：De Hu, Yanrong He, Qingying Zhao, **Junfeng Li**
    - 期刊：The Journal of the Acoustical Society of America (JASA)
