@@ -19,7 +19,7 @@ author_profile: false
   margin-bottom: 12px;
 }
 
-/* 学生照片统一尺寸 */
+/* 学生照片保持之前尺寸 */
 .member-img {
   width: 260px;
   height: 260px;
@@ -29,7 +29,7 @@ author_profile: false
   margin-bottom: 8px;
 }
 
-/* 学生姓名与方向字体 */
+/* 学生姓名与方向字体加大 */
 .member-name {
   font-size: 20px;
   font-weight: bold;
@@ -126,12 +126,7 @@ author_profile: false
 |             <span class="member-name">关可雨</span>             |             <span class="member-name">胡俊升</span>             |             <span class="member-name">陈思远</span>             |
 |             <span class="member-info">助听器</span>             |             <span class="member-info">三维音频</span>            |             <span class="member-info">三维音频</span>            |
 
-| <img src="/images/group_members/王浩.png" class="member-img"> | <img src="/images/group_members/张蕾.jpg" class="member-img"> | <img src="/images/group_members/张鑫喆.jpg" class="member-img"> |
-| :---------------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------: |
-|             <span class="member-name">王浩</span>             |             <span class="member-name">张蕾</span>             |             <span class="member-name">张鑫喆</span>             |
-|           <span class="member-info">中国中车集团</span>           |           <span class="member-info">世界五百强企业</span>          |            <span class="member-info">辽宁财贸学院</span>           |
-
-| <img src="/images/group_members/靳王哲.jpg" class="member-img"> |
-| :----------------------------------------------------------: |
-|             <span class="member-name">靳王哲</span>             |
-|            <span class="member-info">前进机械厂</span>            |
+| <img src="/images/group_members/王浩.png" class="member-img"> | <img src="/images/group_members/张蕾.jpg" class="member-img"> | <img src="/images/group_members/张鑫喆.jpg" class="member-img"> | <img src="/images/group_members/靳王哲.jpg" class="member-img"> |
+| :---------------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|             <span class="member-name">王浩</span>             |             <span class="member-name">张蕾</span>             |             <span class="member-name">张鑫喆</span>             |             <span class="member-name">靳王哲</span>             |
+|           <span class="member-info">中国中车集团</span>           |           <span class="member-info">世界五百强企业</span>          |            <span class="member-info">辽宁财贸学院</span>           |            <span class="member-info">前进机械厂</span>            |
