@@ -119,12 +119,12 @@ author_profile: false
 | <img src="/images/group_members/李琪龙.jpg" class="member-img"> | <img src="/images/group_members/刘姝瑶.jpg" class="member-img"> | <img src="/images/group_members/代浩阳.jpg" class="member-img"> |
 | :--: | :--: | :--: |
 | <span class="member-name">李琪龙</span> | <span class="member-name">刘姝瑶</span> | <span class="member-name">代浩阳</span> |
-| <span class="member-info">语音增强、节点选择</span> | <span class="member-info">多通道主动降噪</span> | <span class="member-info">声源定位</span> |
+| <span class="member-info">军队文职</span> | <span class="member-info">通号空铁科技（内蒙古）有限公司</span> | <span class="member-info">黄河勘测规划设计研究院有限公司</span> |
 
 | <img src="/images/group_members/关可雨.jpg" class="member-img"> | <img src="/images/group_members/胡俊升.jpg" class="member-img"> | <img src="/images/group_members/陈思远.jpg" class="member-img"> |
 | :--: | :--: | :--: |
 | <span class="member-name">关可雨</span> | <span class="member-name">胡俊升</span> | <span class="member-name">陈思远</span> |
-| <span class="member-info">助听器</span> | <span class="member-info">三维音频</span> | <span class="member-info">三维音频</span> |
+| <span class="member-info">军队文职</span> | <span class="member-info">吉利控股集团</span> | <span class="member-info">通号空铁科技（内蒙古）有限公司</span> |
 
 | <img src="/images/group_members/王浩.png" class="member-img"> | <img src="/images/group_members/张蕾.jpg" class="member-img"> | <img src="/images/group_members/张鑫喆.jpg" class="member-img"> | <img src="/images/group_members/靳王哲.jpg" class="member-img"> |
 | :--: | :--: | :--: | :--: |
