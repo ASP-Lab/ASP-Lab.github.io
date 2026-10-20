@@ -10,10 +10,10 @@ author_profile: false
 <div style="text-align: center;margin-bottom: 20px;">
   <img src="/images/extracurricular_activities/动物园.jpg" alt="ASP课题组游览动物园" style="height:500px;">
 </div>
+&nbsp;&nbsp;科研之余，ASP 课题组成员相约走进动物园，近距离感受动物世界的奇妙与乐趣🐼！  
 <div style="text-align: center;margin-bottom: 20px;">
   <img src="/images/extracurricular_activities/动物园2.jpg" alt="ASP课题组游览动物园" style="height:500px;">
 </div>
-&nbsp;&nbsp;科研之余，ASP 课题组成员相约走进动物园，近距离感受动物世界的奇妙与乐趣🐼！  
 &nbsp;&nbsp;大家一路欢声笑语，在亲近自然、放松身心的同时，也增进了彼此的友谊，留下了美好的集体回忆🌿。
 
 ---
