@@ -17,6 +17,11 @@ redirect_from:
 
 ##  近期新闻： 
 ---
+**2026-9** 
+
+[ASP 呼德老师、赵清颖老师、王旭同学、岳致远同学赴澳大利亚悉尼参会 INTERSPEECH 2026](/Academic_conferences/2026_interspeech)
+
+---
 **2026-8** 
 
 [李少杰同学在语音活动检测方面的研究《Low-Rate Voice Activity Detector Over Wireless Acoustic Sensor Networks》发表在语音信号处理顶级期刊 IEEE Transactions on Audio, Speech and Language Processing](/news_update/2026_TASLPRO_LSJ)
