@@ -20,7 +20,7 @@ author_profile: false
 会议期间，课题组成员共同参与学术交流活动，并在会场合影留念。本次会议为团队了解国际语音与声学领域的最新研究动态、拓展学术视野提供了良好机会。
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/hz.jpg" alt="ASP课题组成员合影" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/hz.jpg" alt="ASP课题组成员合影" width="650"><br>
   <em>图 1  ASP 课题组成员参加 Interspeech 2026 合影留念</em>
 </div>
 
@@ -31,7 +31,7 @@ author_profile: false
 Interspeech 2026 以 **“Speaking Together”** 为主题，汇聚了来自世界各地的语音科学与技术研究者。开幕式展示了语音技术领域的发展成果与未来趋势，为后续的学术报告、专题讨论和成果展示拉开序幕。
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/kms.jpg" alt="Interspeech 2026开幕式" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/kms.jpg" alt="Interspeech 2026开幕式" width="650"><br>
   <em>图 2  Interspeech 2026 开幕式现场</em>
 </div>
 
@@ -42,7 +42,7 @@ Interspeech 2026 以 **“Speaking Together”** 为主题，汇聚了来自世�
 呼德研究员在会议期间进行了 Oral 学术报告，向与会学者介绍了课题组在 **助听器** 领域的最新研究工作，并围绕相关方法的设计思路与应用价值展开交流。
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/hood_oral.jpg" alt="呼德研究员Oral报告" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/hood_oral.jpg" alt="呼德研究员Oral报告" width="650"><br>
   <em>图 3  呼德研究员在 Interspeech 2026 进行口头学术报告</em>
 </div>
 
@@ -50,7 +50,7 @@ Interspeech 2026 以 **“Speaking Together”** 为主题，汇聚了来自世�
 
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/yzy_poster.jpg" alt="岳致远Poster展示" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/yzy_poster.jpg" alt="岳致远Poster展示" width="650"><br>
   <em>图 4  岳致远同学在 Interspeech 2026 展示 G2C-NET 研究成果</em>
 </div>
 
@@ -64,7 +64,7 @@ Interspeech 2026 以 **“Speaking Together”** 为主题，汇聚了来自世�
 悉尼歌剧院是澳大利亚最具代表性的文化地标之一，其独特的建筑造型与悉尼港夜景交相辉映，展现出建筑艺术与海港景观相融合的独特魅力。
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/gjy.jpg" alt="悉尼歌剧院夜景" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/gjy.jpg" alt="悉尼歌剧院夜景" width="650"><br>
   <em>图 5  夜幕下的悉尼歌剧院（Sydney Opera House）</em>
 </div>
 
@@ -75,7 +75,7 @@ Interspeech 2026 以 **“Speaking Together”** 为主题，汇聚了来自世�
 悉尼拥有优美的海岸线和丰富的海滨景观。团队成员在会议之余欣赏了当地海滩风光，感受澳大利亚独特的自然环境与海滨文化。
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/beach.jpg" alt="悉尼海滩" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/beach.jpg" alt="悉尼海滩" width="650"><br>
   <em>图 6  悉尼海滩风光，感受澳大利亚的海滨魅力</em>
 </div>
 
@@ -86,7 +86,7 @@ Interspeech 2026 以 **“Speaking Together”** 为主题，汇聚了来自世�
 悉尼海港大桥横跨悉尼港，是悉尼最具代表性的地标建筑之一。大桥与周围的海港景观共同构成了悉尼独特的城市天际线。
 
 <div align="center">
-  <img src="/images/news_update/2026_interspeech/hgdq.jpg" alt="悉尼海港大桥" width="650"><br>
+  <img src="/images/academic_conferences/2026_interspeech/hgdq.jpg" alt="悉尼海港大桥" width="650"><br>
   <em>图 7  悉尼著名地标——海港大桥（Sydney Harbour Bridge）</em>
 </div>
 
