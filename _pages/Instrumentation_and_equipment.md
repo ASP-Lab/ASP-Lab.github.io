@@ -24,7 +24,7 @@ author_profile: false
 <img src="/images/equipments/主机2.jpg" alt="主机2" style="width:400px;">
 
 ## 笔记本
-### MacBook Air(共计3台)
+### MacBook Air(共计5台)
 - CPU: M3【8核+16核】
 - 硬盘: 1TB
 - 内存: 16GB
@@ -37,6 +37,14 @@ author_profile: false
 - 存储: 32GB + 1TB
 
 <img src="/images/equipments/拯救者Y9000P.jpg" alt="拯救者Y9000P" style="width:400px;">
+
+
+### 机械革命耀世16ultra(共计2台)
+- CPU: 酷睿 Ultra 9 275HX
+- 显卡: NVIDIA GeForce RTX 5090（24GB GDDR7）
+- 存储: 32GB + 1TB
+
+<img src="/images/equipments/机械革命.jpg" alt="机械革命" style="width:400px;">
 
 ## 显示器
 
